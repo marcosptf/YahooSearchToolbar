@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: YahooSearch
+OpenIDE-Module-Localizing-Bundle: YahooSearch/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
