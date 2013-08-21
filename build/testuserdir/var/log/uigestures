@@ -1,0 +1,6283 @@
+<record>
+  <date>2013-05-19T14:06:31</date>
+  <millis>1368983191076</millis>
+  <sequence>86</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>2</param>
+</record>
+<record>
+  <date>2013-05-19T14:06:31</date>
+  <millis>1368983191123</millis>
+  <sequence>87</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1366</param>
+  <param>768</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-19T14:06:31</date>
+  <millis>1368983191123</millis>
+  <sequence>88</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-19T14:07:02</date>
+  <millis>1368983222828</millis>
+  <sequence>96</sequence>
+  <level>INFO</level>
+  <thread>15</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>1560543232</param>
+</record>
+<record>
+  <date>2013-05-19T14:07:05</date>
+  <millis>1368983225875</millis>
+  <sequence>101</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Yahoo]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Yahoo</param>
+</record>
+<record>
+  <date>2013-05-19T14:07:14</date>
+  <millis>1368983234938</millis>
+  <sequence>102</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Yahoo]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Yahoo</param>
+</record>
+<record>
+  <date>2013-05-19T14:07:41</date>
+  <millis>1368983261657</millis>
+  <sequence>103</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Yahoo]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Yahoo</param>
+</record>
+<record>
+  <date>2013-05-19T14:07:54</date>
+  <millis>1368983274813</millis>
+  <sequence>104</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>29</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-19T14:07:54</date>
+  <millis>1368983274845</millis>
+  <sequence>106</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>29</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-19T14:07:54</date>
+  <millis>1368983274985</millis>
+  <sequence>110</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-19T14:18:43</date>
+  <millis>1368983923817</millis>
+  <sequence>86</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>2</param>
+</record>
+<record>
+  <date>2013-05-19T14:18:43</date>
+  <millis>1368983923874</millis>
+  <sequence>87</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1366</param>
+  <param>768</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-19T14:18:43</date>
+  <millis>1368983923874</millis>
+  <sequence>88</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-19T14:19:01</date>
+  <millis>1368983941258</millis>
+  <sequence>96</sequence>
+  <level>INFO</level>
+  <thread>12</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>1560543232</param>
+</record>
+<record>
+  <date>2013-05-19T14:20:40</date>
+  <millis>1368984040544</millis>
+  <sequence>97</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>19</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Yahoo]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Yahoo</param>
+</record>
+<record>
+  <date>2013-05-19T14:20:45</date>
+  <millis>1368984045201</millis>
+  <sequence>98</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>19</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Yahoo]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Yahoo</param>
+</record>
+<record>
+  <date>2013-05-19T14:20:45</date>
+  <millis>1368984045795</millis>
+  <sequence>99</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>19</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Yahoo]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Yahoo</param>
+</record>
+<record>
+  <date>2013-05-19T14:20:49</date>
+  <millis>1368984049592</millis>
+  <sequence>100</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>19</thread>
+  <message>UI_ACTION_KEY_PRESS</message>
+  <key>UI_ACTION_KEY_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>ctrl pressed W</param>
+  <param>ctrl pressed W</param>
+  <param>org.netbeans.core.windows.actions.CloseWindowAction@63c8ed</param>
+  <param>org.netbeans.core.windows.actions.CloseWindowAction</param>
+  <param>Fe&amp;char Janela</param>
+</record>
+<record>
+  <date>2013-05-19T14:21:04</date>
+  <millis>1368984064733</millis>
+  <sequence>101</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>19</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Sair]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[Sai&amp;r]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>Sai&amp;r</param>
+</record>
+<record>
+  <date>2013-05-19T14:21:08</date>
+  <millis>1368984068889</millis>
+  <sequence>102</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>50</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-19T14:21:08</date>
+  <millis>1368984068889</millis>
+  <sequence>103</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>50</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-19T14:21:08</date>
+  <millis>1368984068952</millis>
+  <sequence>105</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>19</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-19T14:21:08</date>
+  <millis>1368984068952</millis>
+  <sequence>106</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>40</thread>
+  <message>Snapshot statistics</message>
+  <param>1368984064858</param>
+  <param>Samples</param>
+  <param>406</param>
+  <param>Average</param>
+  <param>9.92614255172414</param>
+  <param>Minimum</param>
+  <param>0.509058</param>
+  <param>Maximum</param>
+  <param>281.349469</param>
+  <param>Std. deviation</param>
+  <param>19.952665179281233</param>
+</record>
+<record>
+  <date>2013-05-21T12:11:31</date>
+  <millis>1369149091096</millis>
+  <sequence>88</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T12:11:31</date>
+  <millis>1369149091156</millis>
+  <sequence>89</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T12:11:31</date>
+  <millis>1369149091156</millis>
+  <sequence>90</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T12:11:42</date>
+  <millis>1369149102186</millis>
+  <sequence>99</sequence>
+  <level>INFO</level>
+  <thread>12</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T12:11:43</date>
+  <millis>1369149103016</millis>
+  <sequence>100</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Yahoo]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Yahoo</param>
+</record>
+<record>
+  <date>2013-05-21T12:11:45</date>
+  <millis>1369149105296</millis>
+  <sequence>101</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Yahoo]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Yahoo</param>
+</record>
+<record>
+  <date>2013-05-21T12:11:53</date>
+  <millis>1369149113467</millis>
+  <sequence>102</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>26</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T12:11:53</date>
+  <millis>1369149113471</millis>
+  <sequence>104</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>26</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2013-05-21T12:11:53</date>
+  <millis>1369149113501</millis>
+  <sequence>108</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T12:25:38</date>
+  <millis>1369149938163</millis>
+  <sequence>88</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T12:25:38</date>
+  <millis>1369149938167</millis>
+  <sequence>89</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T12:25:38</date>
+  <millis>1369149938167</millis>
+  <sequence>90</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T12:25:42</date>
+  <millis>1369149942299</millis>
+  <sequence>98</sequence>
+  <level>INFO</level>
+  <thread>21</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T13:19:55</date>
+  <millis>1369153195770</millis>
+  <sequence>99</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T13:19:57</date>
+  <millis>1369153197012</millis>
+  <sequence>100</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>46</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T13:19:57</date>
+  <millis>1369153197015</millis>
+  <sequence>102</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>46</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T13:19:57</date>
+  <millis>1369153197020</millis>
+  <sequence>104</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T13:47:38</date>
+  <millis>1369154858335</millis>
+  <sequence>88</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T13:47:38</date>
+  <millis>1369154858338</millis>
+  <sequence>89</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T13:47:38</date>
+  <millis>1369154858339</millis>
+  <sequence>90</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T13:47:42</date>
+  <millis>1369154862525</millis>
+  <sequence>98</sequence>
+  <level>INFO</level>
+  <thread>20</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T13:47:48</date>
+  <millis>1369154868095</millis>
+  <sequence>99</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Attach Debugger...]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.modules.debugger.ui.actions.ConnectAction[&amp;Attach Debugger...]</param>
+  <param>org.netbeans.modules.debugger.ui.actions.ConnectAction</param>
+  <param>&amp;Attach Debugger...</param>
+</record>
+<record>
+  <date>2013-05-21T13:47:48</date>
+  <millis>1369154868238</millis>
+  <sequence>100</sequence>
+  <logger>org.netbeans.ui.ergonomics</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>ERGO_QUESTION</message>
+  <key>ERGO_QUESTION</key>
+  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
+  <param>java</param>
+  <param>Java Debugger (JPDA)</param>
+</record>
+<record>
+  <date>2013-05-21T13:47:51</date>
+  <millis>1369154871269</millis>
+  <sequence>101</sequence>
+  <logger>org.netbeans.ui.ergonomics</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>ERGO_DOWNLOAD</message>
+  <key>ERGO_DOWNLOAD</key>
+  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T13:48:07</date>
+  <millis>1369154887625</millis>
+  <sequence>121</sequence>
+  <logger>org.netbeans.ui.ergonomics</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>ERGO_CLOSE</message>
+  <key>ERGO_CLOSE</key>
+  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T13:48:15</date>
+  <millis>1369154895368</millis>
+  <sequence>122</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T13:48:16</date>
+  <millis>1369154896756</millis>
+  <sequence>123</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>36</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T13:48:16</date>
+  <millis>1369154896760</millis>
+  <sequence>125</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>36</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2013-05-21T13:48:16</date>
+  <millis>1369154896766</millis>
+  <sequence>129</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T13:48:16</date>
+  <millis>1369154896768</millis>
+  <sequence>130</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T13:50:04</date>
+  <millis>1369155004007</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T13:50:04</date>
+  <millis>1369155004010</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T13:50:04</date>
+  <millis>1369155004010</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T13:50:09</date>
+  <millis>1369155009055</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>25</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T13:50:10</date>
+  <millis>1369155010996</millis>
+  <sequence>48</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Yahoo]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Yahoo</param>
+</record>
+<record>
+  <date>2013-05-21T13:50:13</date>
+  <millis>1369155013140</millis>
+  <sequence>50</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T13:50:35</date>
+  <millis>1369155035846</millis>
+  <sequence>51</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>25</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>153</param>
+</record>
+<record>
+  <date>2013-05-21T13:50:47</date>
+  <millis>1369155047224</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T13:50:48</date>
+  <millis>1369155048567</millis>
+  <sequence>53</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>28</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T13:50:48</date>
+  <millis>1369155048570</millis>
+  <sequence>55</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>28</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T13:50:48</date>
+  <millis>1369155048572</millis>
+  <sequence>57</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T13:57:01</date>
+  <millis>1369155421475</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T13:57:01</date>
+  <millis>1369155421479</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T13:57:01</date>
+  <millis>1369155421479</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T13:57:06</date>
+  <millis>1369155426439</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>39</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T13:57:32</date>
+  <millis>1369155452831</millis>
+  <sequence>49</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T13:59:22</date>
+  <millis>1369155562795</millis>
+  <sequence>50</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>43</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>12</param>
+</record>
+<record>
+  <date>2013-05-21T13:59:24</date>
+  <millis>1369155564954</millis>
+  <sequence>51</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T13:59:28</date>
+  <millis>1369155568676</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>42</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>12</param>
+</record>
+<record>
+  <date>2013-05-21T13:59:28</date>
+  <millis>1369155568992</millis>
+  <sequence>53</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T13:59:34</date>
+  <millis>1369155574301</millis>
+  <sequence>54</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>43</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>11</param>
+</record>
+<record>
+  <date>2013-05-21T13:59:41</date>
+  <millis>1369155581067</millis>
+  <sequence>55</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[IDE Log]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.awt.AlwaysEnabledAction[IDE &amp;Log]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>IDE &amp;Log</param>
+</record>
+<record>
+  <date>2013-05-21T13:59:42</date>
+  <millis>1369155582853</millis>
+  <sequence>56</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>42</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T13:59:47</date>
+  <millis>1369155587219</millis>
+  <sequence>484</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>42</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>4366</param>
+  <param>TaskListIndexer</param>
+  <param>3</param>
+  <param>2</param>
+  <param>js</param>
+  <param>175</param>
+  <param>798</param>
+  <param>TLIndexer</param>
+  <param>175</param>
+  <param>290</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>3</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>3</param>
+  <param>11</param>
+</record>
+<record>
+  <date>2013-05-21T14:00:15</date>
+  <millis>1369155615603</millis>
+  <sequence>485</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T14:00:16</date>
+  <millis>1369155616890</millis>
+  <sequence>486</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>58</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>29671</param>
+</record>
+<record>
+  <date>2013-05-21T14:00:16</date>
+  <millis>1369155616892</millis>
+  <sequence>488</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>58</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:00:16</date>
+  <millis>1369155616908</millis>
+  <sequence>490</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:03:21</date>
+  <millis>1369155801649</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:03:21</date>
+  <millis>1369155801651</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:03:21</date>
+  <millis>1369155801651</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:03:26</date>
+  <millis>1369155806797</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>27</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:03:28</date>
+  <millis>1369155808017</millis>
+  <sequence>48</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:03:30</date>
+  <millis>1369155810378</millis>
+  <sequence>50</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>28</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>146</param>
+</record>
+<record>
+  <date>2013-05-21T14:03:30</date>
+  <millis>1369155810825</millis>
+  <sequence>51</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T14:03:32</date>
+  <millis>1369155812583</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>27</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T14:03:32</date>
+  <millis>1369155812586</millis>
+  <sequence>54</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>27</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2013-05-21T14:03:32</date>
+  <millis>1369155812587</millis>
+  <sequence>56</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:04:17</date>
+  <millis>1369155857202</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:04:17</date>
+  <millis>1369155857204</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:04:17</date>
+  <millis>1369155857204</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:04:22</date>
+  <millis>1369155862322</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>20</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:04:25</date>
+  <millis>1369155865699</millis>
+  <sequence>49</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T14:04:27</date>
+  <millis>1369155867415</millis>
+  <sequence>50</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>12</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T14:04:27</date>
+  <millis>1369155867419</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>12</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:04:27</date>
+  <millis>1369155867421</millis>
+  <sequence>54</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:04:46</date>
+  <millis>1369155886477</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:04:46</date>
+  <millis>1369155886479</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:04:46</date>
+  <millis>1369155886480</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:04:51</date>
+  <millis>1369155891497</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>20</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:04:52</date>
+  <millis>1369155892752</millis>
+  <sequence>48</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:05:02</date>
+  <millis>1369155902239</millis>
+  <sequence>50</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:05:02</date>
+  <millis>1369155902626</millis>
+  <sequence>51</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>12</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>370</param>
+</record>
+<record>
+  <date>2013-05-21T14:07:55</date>
+  <millis>1369156075746</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:07:55</date>
+  <millis>1369156075748</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:07:55</date>
+  <millis>1369156075748</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:07:56</date>
+  <millis>1369156076610</millis>
+  <sequence>43</sequence>
+  <logger>org.openide.awt.Toolbar</logger>
+  <level>WARNING</level>
+  <thread>18</thread>
+  <message>Error in AWT task</message>
+  <exception>
+    <message>java.util.MissingResourceException: Can't find resource for bundle org.openide.util.NbBundle$PBundle, key YahooPainel3.jLabelYahoo.toolTipText</message>
+    <frame>
+      <class>java.util.ResourceBundle</class>
+      <method>getObject</method>
+      <line>393</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.util.ResourceBundle</class>
+      <method>getString</method>
+      <line>353</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>org.openide.util.NbBundle</class>
+      <method>getMessage</method>
+      <line>642</line>
+      <file>${netbeans.home}lib/org-openide-util.jar</file>
+    </frame>
+    <frame>
+      <class>br.search.yahoo.YahooPainel3</class>
+      <method>initComponent</method>
+      <line>72</line>
+      <file>${netBeansDir}build/cluster/modules/br-search-yahoo.jar</file>
+    </frame>
+    <frame>
+      <class>br.search.yahoo.YahooPainel3</class>
+      <method>&lt;init&gt;</method>
+      <line>24</line>
+      <file>${netBeansDir}build/cluster/modules/br-search-yahoo.jar</file>
+    </frame>
+    <frame>
+      <class>br.search.yahoo.YahooActionListener</class>
+      <method>getToolbarPresenter</method>
+      <line>31</line>
+      <file>${netBeansDir}build/cluster/modules/br-search-yahoo.jar</file>
+    </frame>
+    <frame>
+      <class>org.openide.awt.Toolbar$Folder</class>
+      <method>createInstance</method>
+      <line>436</line>
+      <file>${netbeans.home}modules/org-openide-loaders.jar</file>
+    </frame>
+    <frame>
+      <class>org.openide.loaders.FolderInstance</class>
+      <method>defaultProcessObjectsFinal</method>
+      <line>885</line>
+      <file>${netbeans.home}modules/org-openide-loaders.jar</file>
+    </frame>
+    <frame>
+      <class>org.openide.loaders.FolderInstance$1R</class>
+      <method>run</method>
+      <line>730</line>
+      <file>${netbeans.home}modules/org-openide-loaders.jar</file>
+    </frame>
+    <frame>
+      <class>org.openide.util.Task</class>
+      <method>run</method>
+      <line>257</line>
+      <file>${netbeans.home}lib/org-openide-util.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.modules.openide.loaders.AWTTask</class>
+      <method>run</method>
+      <line>79</line>
+      <file>${netbeans.home}modules/org-openide-loaders.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.modules.openide.loaders.AWTTask$Processor</class>
+      <method>run</method>
+      <line>171</line>
+      <file>${netbeans.home}modules/org-openide-loaders.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.event.InvocationEvent</class>
+      <method>dispatch</method>
+      <line>251</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEventImpl</method>
+      <line>727</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>access$200</method>
+      <line>103</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$3</class>
+      <method>run</method>
+      <line>688</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$3</class>
+      <method>run</method>
+      <line>686</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.security.AccessController</class>
+      <method>doPrivileged</method>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.security.ProtectionDomain$1</class>
+      <method>doIntersectionPrivilege</method>
+      <line>76</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEvent</method>
+      <line>697</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.core.TimableEventQueue</class>
+      <method>dispatchEvent</method>
+      <line>159</line>
+      <file>${netbeans.home}modules/org-netbeans-core.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpOneEventForFilters</method>
+      <line>242</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForFilter</method>
+      <line>161</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForHierarchy</method>
+      <line>150</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>146</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>138</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>run</method>
+      <line>91</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2013-05-21T14:08:00</date>
+  <millis>1369156080998</millis>
+  <sequence>52</sequence>
+  <level>INFO</level>
+  <thread>28</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:08:17</date>
+  <millis>1369156097321</millis>
+  <sequence>55</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T14:08:19</date>
+  <millis>1369156099077</millis>
+  <sequence>56</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>38</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T14:08:19</date>
+  <millis>1369156099081</millis>
+  <sequence>58</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>38</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2013-05-21T14:08:19</date>
+  <millis>1369156099083</millis>
+  <sequence>60</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:08:50</date>
+  <millis>1369156130543</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:08:50</date>
+  <millis>1369156130547</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:08:50</date>
+  <millis>1369156130547</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:08:51</date>
+  <millis>1369156131378</millis>
+  <sequence>43</sequence>
+  <logger>org.openide.awt.Toolbar</logger>
+  <level>WARNING</level>
+  <thread>18</thread>
+  <message>Error in AWT task</message>
+  <exception>
+    <message>java.util.MissingResourceException: Can't find resource for bundle org.openide.util.NbBundle$PBundle, key YahooPainel3.jTextFieldYahoo.text</message>
+    <frame>
+      <class>java.util.ResourceBundle</class>
+      <method>getObject</method>
+      <line>393</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.util.ResourceBundle</class>
+      <method>getString</method>
+      <line>353</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>org.openide.util.NbBundle</class>
+      <method>getMessage</method>
+      <line>642</line>
+      <file>${netbeans.home}lib/org-openide-util.jar</file>
+    </frame>
+    <frame>
+      <class>br.search.yahoo.YahooPainel3</class>
+      <method>initComponent</method>
+      <line>76</line>
+      <file>${netBeansDir}build/cluster/modules/br-search-yahoo.jar</file>
+    </frame>
+    <frame>
+      <class>br.search.yahoo.YahooPainel3</class>
+      <method>&lt;init&gt;</method>
+      <line>24</line>
+      <file>${netBeansDir}build/cluster/modules/br-search-yahoo.jar</file>
+    </frame>
+    <frame>
+      <class>br.search.yahoo.YahooActionListener</class>
+      <method>getToolbarPresenter</method>
+      <line>31</line>
+      <file>${netBeansDir}build/cluster/modules/br-search-yahoo.jar</file>
+    </frame>
+    <frame>
+      <class>org.openide.awt.Toolbar$Folder</class>
+      <method>createInstance</method>
+      <line>436</line>
+      <file>${netbeans.home}modules/org-openide-loaders.jar</file>
+    </frame>
+    <frame>
+      <class>org.openide.loaders.FolderInstance</class>
+      <method>defaultProcessObjectsFinal</method>
+      <line>885</line>
+      <file>${netbeans.home}modules/org-openide-loaders.jar</file>
+    </frame>
+    <frame>
+      <class>org.openide.loaders.FolderInstance$1R</class>
+      <method>run</method>
+      <line>730</line>
+      <file>${netbeans.home}modules/org-openide-loaders.jar</file>
+    </frame>
+    <frame>
+      <class>org.openide.util.Task</class>
+      <method>run</method>
+      <line>257</line>
+      <file>${netbeans.home}lib/org-openide-util.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.modules.openide.loaders.AWTTask</class>
+      <method>run</method>
+      <line>79</line>
+      <file>${netbeans.home}modules/org-openide-loaders.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.modules.openide.loaders.AWTTask$Processor</class>
+      <method>run</method>
+      <line>171</line>
+      <file>${netbeans.home}modules/org-openide-loaders.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.event.InvocationEvent</class>
+      <method>dispatch</method>
+      <line>251</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEventImpl</method>
+      <line>727</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>access$200</method>
+      <line>103</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$3</class>
+      <method>run</method>
+      <line>688</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$3</class>
+      <method>run</method>
+      <line>686</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.security.AccessController</class>
+      <method>doPrivileged</method>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.security.ProtectionDomain$1</class>
+      <method>doIntersectionPrivilege</method>
+      <line>76</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEvent</method>
+      <line>697</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.core.TimableEventQueue</class>
+      <method>dispatchEvent</method>
+      <line>159</line>
+      <file>${netbeans.home}modules/org-netbeans-core.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpOneEventForFilters</method>
+      <line>242</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForFilter</method>
+      <line>161</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForHierarchy</method>
+      <line>150</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>146</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>138</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>run</method>
+      <line>91</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2013-05-21T14:08:55</date>
+  <millis>1369156135790</millis>
+  <sequence>52</sequence>
+  <level>INFO</level>
+  <thread>20</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:09:00</date>
+  <millis>1369156140185</millis>
+  <sequence>55</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T14:09:01</date>
+  <millis>1369156141903</millis>
+  <sequence>56</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>27</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T14:09:01</date>
+  <millis>1369156141905</millis>
+  <sequence>58</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>27</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:09:01</date>
+  <millis>1369156141907</millis>
+  <sequence>60</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:09:36</date>
+  <millis>1369156176765</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:09:36</date>
+  <millis>1369156176768</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:09:36</date>
+  <millis>1369156176768</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:09:41</date>
+  <millis>1369156181754</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>28</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:09:50</date>
+  <millis>1369156190343</millis>
+  <sequence>49</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:10:00</date>
+  <millis>1369156200852</millis>
+  <sequence>50</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>36</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>197</param>
+</record>
+<record>
+  <date>2013-05-21T14:10:02</date>
+  <millis>1369156202689</millis>
+  <sequence>51</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T14:10:04</date>
+  <millis>1369156204673</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>39</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T14:10:04</date>
+  <millis>1369156204676</millis>
+  <sequence>54</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>39</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2013-05-21T14:10:04</date>
+  <millis>1369156204684</millis>
+  <sequence>58</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:11:24</date>
+  <millis>1369156284268</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:11:24</date>
+  <millis>1369156284288</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:11:24</date>
+  <millis>1369156284288</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:11:29</date>
+  <millis>1369156289241</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>25</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:11:46</date>
+  <millis>1369156306204</millis>
+  <sequence>49</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:11:56</date>
+  <millis>1369156316189</millis>
+  <sequence>50</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>12</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>13</param>
+</record>
+<record>
+  <date>2013-05-21T14:11:58</date>
+  <millis>1369156318693</millis>
+  <sequence>51</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:12:03</date>
+  <millis>1369156323554</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>25</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>12</param>
+</record>
+<record>
+  <date>2013-05-21T14:12:05</date>
+  <millis>1369156325055</millis>
+  <sequence>53</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:13:18</date>
+  <millis>1369156398292</millis>
+  <sequence>54</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>43</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>7</param>
+</record>
+<record>
+  <date>2013-05-21T14:13:26</date>
+  <millis>1369156406654</millis>
+  <sequence>55</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T14:13:28</date>
+  <millis>1369156408153</millis>
+  <sequence>56</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>50</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T14:13:28</date>
+  <millis>1369156408156</millis>
+  <sequence>58</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>50</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2013-05-21T14:13:28</date>
+  <millis>1369156408165</millis>
+  <sequence>62</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:18:52</date>
+  <millis>1369156732333</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:18:52</date>
+  <millis>1369156732335</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:18:52</date>
+  <millis>1369156732336</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:18:57</date>
+  <millis>1369156737477</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>20</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:19:00</date>
+  <millis>1369156740051</millis>
+  <sequence>49</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:19:02</date>
+  <millis>1369156742698</millis>
+  <sequence>50</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>26</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>8</param>
+</record>
+<record>
+  <date>2013-05-21T14:19:07</date>
+  <millis>1369156747864</millis>
+  <sequence>51</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:19:11</date>
+  <millis>1369156751069</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>20</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>6</param>
+</record>
+<record>
+  <date>2013-05-21T14:19:11</date>
+  <millis>1369156751579</millis>
+  <sequence>53</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T14:19:14</date>
+  <millis>1369156754089</millis>
+  <sequence>54</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>35</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T14:19:14</date>
+  <millis>1369156754093</millis>
+  <sequence>56</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>35</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2013-05-21T14:19:14</date>
+  <millis>1369156754098</millis>
+  <sequence>60</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:19:42</date>
+  <millis>1369156782021</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:19:42</date>
+  <millis>1369156782023</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:19:42</date>
+  <millis>1369156782023</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:19:47</date>
+  <millis>1369156787570</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>26</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:19:52</date>
+  <millis>1369156792413</millis>
+  <sequence>49</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:19:55</date>
+  <millis>1369156795791</millis>
+  <sequence>50</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>26</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>8</param>
+</record>
+<record>
+  <date>2013-05-21T14:19:56</date>
+  <millis>1369156796004</millis>
+  <sequence>51</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T14:19:58</date>
+  <millis>1369156798200</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>27</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T14:19:58</date>
+  <millis>1369156798203</millis>
+  <sequence>54</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>27</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:19:58</date>
+  <millis>1369156798213</millis>
+  <sequence>58</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:20:12</date>
+  <millis>1369156812922</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:20:12</date>
+  <millis>1369156812924</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:20:12</date>
+  <millis>1369156812924</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:20:18</date>
+  <millis>1369156818125</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>38</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:20:20</date>
+  <millis>1369156820329</millis>
+  <sequence>48</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T14:20:22</date>
+  <millis>1369156822427</millis>
+  <sequence>50</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>44</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T14:20:22</date>
+  <millis>1369156822429</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>44</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:20:22</date>
+  <millis>1369156822430</millis>
+  <sequence>54</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:20:37</date>
+  <millis>1369156837023</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:20:37</date>
+  <millis>1369156837026</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:20:37</date>
+  <millis>1369156837026</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:20:42</date>
+  <millis>1369156842534</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>20</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:20:45</date>
+  <millis>1369156845875</millis>
+  <sequence>49</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T14:20:47</date>
+  <millis>1369156847764</millis>
+  <sequence>50</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>38</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T14:20:47</date>
+  <millis>1369156847767</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>38</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2013-05-21T14:20:47</date>
+  <millis>1369156847768</millis>
+  <sequence>54</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:21:01</date>
+  <millis>1369156861515</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:21:01</date>
+  <millis>1369156861518</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:21:01</date>
+  <millis>1369156861518</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:21:07</date>
+  <millis>1369156867250</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>20</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:21:08</date>
+  <millis>1369156868014</millis>
+  <sequence>48</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T14:21:10</date>
+  <millis>1369156870612</millis>
+  <sequence>49</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>12</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T14:21:10</date>
+  <millis>1369156870615</millis>
+  <sequence>51</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>12</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:21:10</date>
+  <millis>1369156870643</millis>
+  <sequence>55</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:21:24</date>
+  <millis>1369156884484</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:21:24</date>
+  <millis>1369156884487</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:21:24</date>
+  <millis>1369156884487</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:21:30</date>
+  <millis>1369156890226</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>26</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:21:31</date>
+  <millis>1369156891538</millis>
+  <sequence>48</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T14:21:34</date>
+  <millis>1369156894307</millis>
+  <sequence>49</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>27</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T14:21:34</date>
+  <millis>1369156894309</millis>
+  <sequence>51</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>27</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:21:34</date>
+  <millis>1369156894311</millis>
+  <sequence>53</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:21:49</date>
+  <millis>1369156909026</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:21:49</date>
+  <millis>1369156909030</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:21:49</date>
+  <millis>1369156909031</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:21:54</date>
+  <millis>1369156914867</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>21</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:22:04</date>
+  <millis>1369156924052</millis>
+  <sequence>49</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Exit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.core.actions.SystemExit[E&amp;xit]</param>
+  <param>org.netbeans.core.actions.SystemExit</param>
+  <param>E&amp;xit</param>
+</record>
+<record>
+  <date>2013-05-21T14:22:06</date>
+  <millis>1369156926010</millis>
+  <sequence>50</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>20</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T14:22:06</date>
+  <millis>1369156926013</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>20</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:22:06</date>
+  <millis>1369156926015</millis>
+  <sequence>54</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:25:52</date>
+  <millis>1369157152631</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T14:25:52</date>
+  <millis>1369157152634</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:25:52</date>
+  <millis>1369157152634</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-05-21T14:25:57</date>
+  <millis>1369157157742</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>26</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-05-21T14:26:23</date>
+  <millis>1369157183699</millis>
+  <sequence>49</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:47:30</date>
+  <millis>1369158450052</millis>
+  <sequence>50</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>40</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>13</param>
+</record>
+<record>
+  <date>2013-05-21T14:47:36</date>
+  <millis>1369158456594</millis>
+  <sequence>51</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[IDE Log]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.awt.AlwaysEnabledAction[IDE &amp;Log]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>IDE &amp;Log</param>
+</record>
+<record>
+  <date>2013-05-21T14:47:37</date>
+  <millis>1369158457470</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>39</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-05-21T14:47:38</date>
+  <millis>1369158458078</millis>
+  <sequence>64</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>39</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>607</param>
+  <param>TaskListIndexer</param>
+  <param>3</param>
+  <param>4</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>3</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>3</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-05-21T14:48:05</date>
+  <millis>1369158485195</millis>
+  <sequence>65</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:49:02</date>
+  <millis>1369158542916</millis>
+  <sequence>66</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T14:49:03</date>
+  <millis>1369158543476</millis>
+  <sequence>67</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>47</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>46</param>
+</record>
+<record>
+  <date>2013-05-21T15:09:28</date>
+  <millis>1369159768749</millis>
+  <sequence>68</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>50</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>36</param>
+</record>
+<record>
+  <date>2013-05-21T15:09:51</date>
+  <millis>1369159791096</millis>
+  <sequence>69</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T15:12:52</date>
+  <millis>1369159972361</millis>
+  <sequence>70</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>51</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>5</param>
+</record>
+<record>
+  <date>2013-05-21T15:13:13</date>
+  <millis>1369159993226</millis>
+  <sequence>71</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T15:14:51</date>
+  <millis>1369160091460</millis>
+  <sequence>72</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>54</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>9</param>
+</record>
+<record>
+  <date>2013-05-21T15:14:52</date>
+  <millis>1369160092639</millis>
+  <sequence>73</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T15:19:36</date>
+  <millis>1369160376863</millis>
+  <sequence>74</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>55</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>6</param>
+</record>
+<record>
+  <date>2013-05-21T15:19:38</date>
+  <millis>1369160378086</millis>
+  <sequence>75</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T15:20:59</date>
+  <millis>1369160459215</millis>
+  <sequence>76</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>56</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>8</param>
+</record>
+<record>
+  <date>2013-05-21T15:21:04</date>
+  <millis>1369160464486</millis>
+  <sequence>77</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T15:21:20</date>
+  <millis>1369160480032</millis>
+  <sequence>78</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>55</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>10</param>
+</record>
+<record>
+  <date>2013-05-21T15:21:31</date>
+  <millis>1369160491773</millis>
+  <sequence>79</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T16:14:57</date>
+  <millis>1369163697046</millis>
+  <sequence>80</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>58</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>19</param>
+</record>
+<record>
+  <date>2013-05-21T16:15:44</date>
+  <millis>1369163744811</millis>
+  <sequence>81</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T16:15:55</date>
+  <millis>1369163755140</millis>
+  <sequence>82</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>55</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>9</param>
+</record>
+<record>
+  <date>2013-05-21T16:17:14</date>
+  <millis>1369163834476</millis>
+  <sequence>83</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T16:17:24</date>
+  <millis>1369163844993</millis>
+  <sequence>84</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>61</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>9</param>
+</record>
+<record>
+  <date>2013-05-21T16:17:25</date>
+  <millis>1369163845562</millis>
+  <sequence>85</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T16:17:30</date>
+  <millis>1369163850311</millis>
+  <sequence>86</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T16:17:30</date>
+  <millis>1369163850992</millis>
+  <sequence>87</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>55</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-21T16:17:58</date>
+  <millis>1369163878777</millis>
+  <sequence>88</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>61</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>9</param>
+</record>
+<record>
+  <date>2013-05-21T16:18:10</date>
+  <millis>1369163890187</millis>
+  <sequence>89</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T16:18:20</date>
+  <millis>1369163900892</millis>
+  <sequence>90</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>55</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>7</param>
+</record>
+<record>
+  <date>2013-05-21T16:18:24</date>
+  <millis>1369163904295</millis>
+  <sequence>91</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T16:18:29</date>
+  <millis>1369163909384</millis>
+  <sequence>92</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>61</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>12</param>
+</record>
+<record>
+  <date>2013-05-21T16:18:29</date>
+  <millis>1369163909751</millis>
+  <sequence>93</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T16:18:31</date>
+  <millis>1369163911608</millis>
+  <sequence>94</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T16:18:32</date>
+  <millis>1369163912236</millis>
+  <sequence>95</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>55</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>6</param>
+</record>
+<record>
+  <date>2013-05-21T16:19:47</date>
+  <millis>1369163987222</millis>
+  <sequence>96</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>62</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>10</param>
+</record>
+<record>
+  <date>2013-05-21T16:19:54</date>
+  <millis>1369163994829</millis>
+  <sequence>97</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T16:29:36</date>
+  <millis>1369164576947</millis>
+  <sequence>98</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>63</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>7</param>
+</record>
+<record>
+  <date>2013-05-21T16:29:40</date>
+  <millis>1369164580531</millis>
+  <sequence>99</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T16:32:46</date>
+  <millis>1369164766696</millis>
+  <sequence>100</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>64</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>7</param>
+</record>
+<record>
+  <date>2013-05-21T16:32:55</date>
+  <millis>1369164775443</millis>
+  <sequence>101</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-21T16:54:49</date>
+  <millis>1369166089999</millis>
+  <sequence>102</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>65</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>8</param>
+</record>
+<record>
+  <date>2013-05-21T16:54:50</date>
+  <millis>1369166090884</millis>
+  <sequence>103</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-22T09:48:51</date>
+  <millis>1369226931126</millis>
+  <sequence>104</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>69</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>31</param>
+</record>
+<record>
+  <date>2013-05-22T09:48:56</date>
+  <millis>1369226936638</millis>
+  <sequence>105</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-22T09:55:42</date>
+  <millis>1369227342434</millis>
+  <sequence>106</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-22T09:55:42</date>
+  <millis>1369227342745</millis>
+  <sequence>107</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>70</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-05-22T09:59:53</date>
+  <millis>1369227593958</millis>
+  <sequence>108</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>71</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>9</param>
+</record>
+<record>
+  <date>2013-05-22T10:00:02</date>
+  <millis>1369227602380</millis>
+  <sequence>109</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-22T10:00:14</date>
+  <millis>1369227614300</millis>
+  <sequence>110</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-22T10:00:14</date>
+  <millis>1369227614496</millis>
+  <sequence>111</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>70</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>6</param>
+</record>
+<record>
+  <date>2013-05-22T10:19:10</date>
+  <millis>1369228750273</millis>
+  <sequence>112</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>75</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>9</param>
+</record>
+<record>
+  <date>2013-05-22T10:19:39</date>
+  <millis>1369228779616</millis>
+  <sequence>113</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-22T10:19:48</date>
+  <millis>1369228788559</millis>
+  <sequence>114</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>70</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>11</param>
+</record>
+<record>
+  <date>2013-05-22T10:19:56</date>
+  <millis>1369228796834</millis>
+  <sequence>115</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-22T14:25:46</date>
+  <millis>1369243546169</millis>
+  <sequence>117</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>84</thread>
+  <message>Snapshot statistics</message>
+  <param>1369243539170</param>
+  <param>Samples</param>
+  <param>686</param>
+  <param>Average</param>
+  <param>10.18633117055394</param>
+  <param>Minimum</param>
+  <param>0.195075</param>
+  <param>Maximum</param>
+  <param>3733.615107</param>
+  <param>Std. deviation</param>
+  <param>151.85684074732472</param>
+</record>
+<record>
+  <date>2013-05-22T18:01:07</date>
+  <millis>1369256467318</millis>
+  <sequence>121</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>131</thread>
+  <message>Snapshot statistics</message>
+  <param>1369256448219</param>
+  <param>Samples</param>
+  <param>1818</param>
+  <param>Average</param>
+  <param>10.251175966446619</param>
+  <param>Minimum</param>
+  <param>0.210427</param>
+  <param>Maximum</param>
+  <param>2059.776942</param>
+  <param>Std. deviation</param>
+  <param>74.80006320291531</param>
+</record>
+<record>
+  <date>2013-05-22T18:32:52</date>
+  <millis>1369258372018</millis>
+  <sequence>125</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>139</thread>
+  <message>Snapshot statistics</message>
+  <param>1369258365622</param>
+  <param>Samples</param>
+  <param>638</param>
+  <param>Average</param>
+  <param>9.949414893416936</param>
+  <param>Minimum</param>
+  <param>0.215385</param>
+  <param>Maximum</param>
+  <param>178.601134</param>
+  <param>Std. deviation</param>
+  <param>10.124695741888242</param>
+</record>
+<record>
+  <date>2013-05-23T07:28:20</date>
+  <millis>1369304900224</millis>
+  <sequence>402</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>142</thread>
+  <message>Snapshot statistics</message>
+  <param>1369304895360</param>
+  <param>Samples</param>
+  <param>485</param>
+  <param>Average</param>
+  <param>9.997015278350515</param>
+  <param>Minimum</param>
+  <param>0.215925</param>
+  <param>Maximum</param>
+  <param>1195.262622</param>
+  <param>Std. deviation</param>
+  <param>58.20511670916847</param>
+</record>
+<record>
+  <date>2013-05-23T09:36:42</date>
+  <millis>1369312602156</millis>
+  <sequence>405</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>144</thread>
+  <message>Snapshot statistics</message>
+  <param>1369312597710</param>
+  <param>Samples</param>
+  <param>443</param>
+  <param>Average</param>
+  <param>10.008611823927765</param>
+  <param>Minimum</param>
+  <param>0.174917</param>
+  <param>Maximum</param>
+  <param>257.73029</param>
+  <param>Std. deviation</param>
+  <param>12.016009111773213</param>
+</record>
+<record>
+  <date>2013-05-23T13:56:55</date>
+  <millis>1369328215252</millis>
+  <sequence>682</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>151</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>206</param>
+</record>
+<record>
+  <date>2013-05-23T13:57:04</date>
+  <millis>1369328224604</millis>
+  <sequence>683</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-23T17:40:02</date>
+  <millis>1369341602781</millis>
+  <sequence>685</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>151</thread>
+  <message>Snapshot statistics</message>
+  <param>1369341593413</param>
+  <param>Samples</param>
+  <param>935</param>
+  <param>Average</param>
+  <param>10.006579870588228</param>
+  <param>Minimum</param>
+  <param>0.275739</param>
+  <param>Maximum</param>
+  <param>108.325335</param>
+  <param>Std. deviation</param>
+  <param>6.572565603470815</param>
+</record>
+<record>
+  <date>2013-05-24T09:08:04</date>
+  <millis>1369397284888</millis>
+  <sequence>975</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>158</thread>
+  <message>Snapshot statistics</message>
+  <param>1369397281247</param>
+  <param>Samples</param>
+  <param>363</param>
+  <param>Average</param>
+  <param>0.607214763085399</param>
+  <param>Minimum</param>
+  <param>0.161944</param>
+  <param>Maximum</param>
+  <param>136.290197</param>
+  <param>Std. deviation</param>
+  <param>11.793376452175245</param>
+</record>
+<record>
+  <date>2013-05-24T09:09:20</date>
+  <millis>1369397360634</millis>
+  <sequence>1257</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>156</thread>
+  <message>Snapshot statistics</message>
+  <param>1369397355035</param>
+  <param>Samples</param>
+  <param>222</param>
+  <param>Average</param>
+  <param>23.61691722972974</param>
+  <param>Minimum</param>
+  <param>0.17327</param>
+  <param>Maximum</param>
+  <param>4765.64419</param>
+  <param>Std. deviation</param>
+  <param>319.7985291736432</param>
+</record>
+<record>
+  <date>2013-05-24T16:04:50</date>
+  <millis>1369422290410</millis>
+  <sequence>1259</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>176</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>774</param>
+</record>
+<record>
+  <date>2013-05-24T16:04:57</date>
+  <millis>1369422297647</millis>
+  <sequence>1260</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-05-24T18:11:48</date>
+  <millis>1369429908169</millis>
+  <sequence>1262</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>176</thread>
+  <message>Snapshot statistics</message>
+  <param>1369429900879</param>
+  <param>Samples</param>
+  <param>664</param>
+  <param>Average</param>
+  <param>2.2034871084337366</param>
+  <param>Minimum</param>
+  <param>0.164942</param>
+  <param>Maximum</param>
+  <param>485.659486</param>
+  <param>Std. deviation</param>
+  <param>29.057311663198526</param>
+</record>
+<record>
+  <date>2013-05-24T18:14:07</date>
+  <millis>1369430047640</millis>
+  <sequence>1548</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>190</thread>
+  <message>Snapshot statistics</message>
+  <param>1369430040034</param>
+  <param>Samples</param>
+  <param>759</param>
+  <param>Average</param>
+  <param>10.000277728590248</param>
+  <param>Minimum</param>
+  <param>0.247019</param>
+  <param>Maximum</param>
+  <param>5354.345877</param>
+  <param>Std. deviation</param>
+  <param>194.3354525773967</param>
+</record>
+<record>
+  <date>2013-05-24T18:14:35</date>
+  <millis>1369430075272</millis>
+  <sequence>1551</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>186</thread>
+  <message>Snapshot statistics</message>
+  <param>1369430063490</param>
+  <param>Samples</param>
+  <param>1177</param>
+  <param>Average</param>
+  <param>9.99989208496176</param>
+  <param>Minimum</param>
+  <param>0.273216</param>
+  <param>Maximum</param>
+  <param>328.922025</param>
+  <param>Std. deviation</param>
+  <param>33.44774136414865</param>
+</record>
+<record>
+  <date>2013-05-24T18:15:21</date>
+  <millis>1369430121678</millis>
+  <sequence>1839</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>190</thread>
+  <message>Snapshot statistics</message>
+  <param>1369430115644</param>
+  <param>Samples</param>
+  <param>602</param>
+  <param>Average</param>
+  <param>9.999806234219271</param>
+  <param>Minimum</param>
+  <param>9.320833</param>
+  <param>Maximum</param>
+  <param>11.042552</param>
+  <param>Std. deviation</param>
+  <param>0.4916453984912428</param>
+</record>
+<record>
+  <date>2013-05-24T18:15:50</date>
+  <millis>1369430150417</millis>
+  <sequence>2128</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>186</thread>
+  <message>Snapshot statistics</message>
+  <param>1369430143012</param>
+  <param>Samples</param>
+  <param>739</param>
+  <param>Average</param>
+  <param>9.999977893098782</param>
+  <param>Minimum</param>
+  <param>0.240997</param>
+  <param>Maximum</param>
+  <param>237.042716</param>
+  <param>Std. deviation</param>
+  <param>8.561724507572245</param>
+</record>
+<record>
+  <date>2013-05-24T18:17:42</date>
+  <millis>1369430262093</millis>
+  <sequence>2418</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>190</thread>
+  <message>Snapshot statistics</message>
+  <param>1369430253556</param>
+  <param>Samples</param>
+  <param>852</param>
+  <param>Average</param>
+  <param>10.00438512793427</param>
+  <param>Minimum</param>
+  <param>8.707763</param>
+  <param>Maximum</param>
+  <param>13.09746</param>
+  <param>Std. deviation</param>
+  <param>0.519617620858971</param>
+</record>
+<record>
+  <date>2013-05-25T08:05:30</date>
+  <millis>1369479930332</millis>
+  <sequence>2710</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>213</thread>
+  <message>Snapshot statistics</message>
+  <param>1369479905151</param>
+  <param>Samples</param>
+  <param>2109</param>
+  <param>Average</param>
+  <param>11.934130415836858</param>
+  <param>Minimum</param>
+  <param>0.194313</param>
+  <param>Maximum</param>
+  <param>4244.992416</param>
+  <param>Std. deviation</param>
+  <param>92.42543246981622</param>
+</record>
+<record>
+  <date>2013-05-26T14:07:27</date>
+  <millis>1369588047383</millis>
+  <sequence>2713</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>222</thread>
+  <message>Snapshot statistics</message>
+  <param>1369588043473</param>
+  <param>Samples</param>
+  <param>389</param>
+  <param>Average</param>
+  <param>9.99813303598972</param>
+  <param>Minimum</param>
+  <param>0.342898</param>
+  <param>Maximum</param>
+  <param>70.722429</param>
+  <param>Std. deviation</param>
+  <param>3.705301916510411</param>
+</record>
+<record>
+  <date>2013-05-27T10:49:12</date>
+  <millis>1369662552801</millis>
+  <sequence>3006</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>224</thread>
+  <message>Snapshot statistics</message>
+  <param>1369662544989</param>
+  <param>Samples</param>
+  <param>779</param>
+  <param>Average</param>
+  <param>9.96943365596918</param>
+  <param>Minimum</param>
+  <param>0.22638</param>
+  <param>Maximum</param>
+  <param>410.028884</param>
+  <param>Std. deviation</param>
+  <param>15.52383352204619</param>
+</record>
+<record>
+  <date>2013-05-27T12:09:40</date>
+  <millis>1369667380189</millis>
+  <sequence>3300</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>224</thread>
+  <message>Snapshot statistics</message>
+  <param>1369667377007</param>
+  <param>Samples</param>
+  <param>316</param>
+  <param>Average</param>
+  <param>3.1036270158227888</param>
+  <param>Minimum</param>
+  <param>0.295378</param>
+  <param>Maximum</param>
+  <param>607.409805</param>
+  <param>Std. deviation</param>
+  <param>37.16320545206961</param>
+</record>
+<record>
+  <date>2013-05-27T12:10:09</date>
+  <millis>1369667409878</millis>
+  <sequence>3595</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>224</thread>
+  <message>Snapshot statistics</message>
+  <param>1369667401853</param>
+  <param>Samples</param>
+  <param>801</param>
+  <param>Average</param>
+  <param>7.431776831460675</param>
+  <param>Minimum</param>
+  <param>0.173441</param>
+  <param>Maximum</param>
+  <param>769.645777</param>
+  <param>Std. deviation</param>
+  <param>51.921142092876956</param>
+</record>
+<record>
+  <date>2013-05-27T14:53:23</date>
+  <millis>1369677203924</millis>
+  <sequence>3598</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>248</thread>
+  <message>Snapshot statistics</message>
+  <param>1369677200301</param>
+  <param>Samples</param>
+  <param>132</param>
+  <param>Average</param>
+  <param>16.535339401515152</param>
+  <param>Minimum</param>
+  <param>0.265597</param>
+  <param>Maximum</param>
+  <param>586.452669</param>
+  <param>Std. deviation</param>
+  <param>91.68695783449178</param>
+</record>
+<record>
+  <date>2013-05-27T17:57:21</date>
+  <millis>1369688241245</millis>
+  <sequence>3601</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>263</thread>
+  <message>Snapshot statistics</message>
+  <param>1369688235161</param>
+  <param>Samples</param>
+  <param>607</param>
+  <param>Average</param>
+  <param>8.894351265238875</param>
+  <param>Minimum</param>
+  <param>0.208302</param>
+  <param>Maximum</param>
+  <param>738.444258</param>
+  <param>Std. deviation</param>
+  <param>44.28030762985555</param>
+</record>
+<record>
+  <date>2013-05-27T17:57:42</date>
+  <millis>1369688262857</millis>
+  <sequence>3604</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>271</thread>
+  <message>Snapshot statistics</message>
+  <param>1369688259735</param>
+  <param>Samples</param>
+  <param>310</param>
+  <param>Average</param>
+  <param>9.581187680645156</param>
+  <param>Minimum</param>
+  <param>0.233248</param>
+  <param>Maximum</param>
+  <param>696.473</param>
+  <param>Std. deviation</param>
+  <param>52.22659011897376</param>
+</record>
+<record>
+  <date>2013-05-28T12:25:40</date>
+  <millis>1369754740693</millis>
+  <sequence>3607</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>277</thread>
+  <message>Snapshot statistics</message>
+  <param>1369754722795</param>
+  <param>Samples</param>
+  <param>425</param>
+  <param>Average</param>
+  <param>24.59357999764705</param>
+  <param>Minimum</param>
+  <param>0.181785</param>
+  <param>Maximum</param>
+  <param>1373.053891</param>
+  <param>Std. deviation</param>
+  <param>120.55828244623514</param>
+</record>
+<record>
+  <date>2013-05-28T14:25:12</date>
+  <millis>1369761912998</millis>
+  <sequence>3610</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>278</thread>
+  <message>Snapshot statistics</message>
+  <param>1369761909882</param>
+  <param>Samples</param>
+  <param>229</param>
+  <param>Average</param>
+  <param>9.929314227074236</param>
+  <param>Minimum</param>
+  <param>0.206481</param>
+  <param>Maximum</param>
+  <param>545.711633</param>
+  <param>Std. deviation</param>
+  <param>57.75307540770875</param>
+</record>
+<record>
+  <date>2013-05-28T16:00:09</date>
+  <millis>1369767609767</millis>
+  <sequence>3613</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>282</thread>
+  <message>Snapshot statistics</message>
+  <param>1369767606285</param>
+  <param>Samples</param>
+  <param>347</param>
+  <param>Average</param>
+  <param>9.776772368876083</param>
+  <param>Minimum</param>
+  <param>0.265562</param>
+  <param>Maximum</param>
+  <param>102.820217</param>
+  <param>Std. deviation</param>
+  <param>9.028037396644663</param>
+</record>
+<record>
+  <date>2013-05-28T18:11:35</date>
+  <millis>1369775495502</millis>
+  <sequence>3915</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>299</thread>
+  <message>Snapshot statistics</message>
+  <param>1369775490617</param>
+  <param>Samples</param>
+  <param>88</param>
+  <param>Average</param>
+  <param>21.610502124999986</param>
+  <param>Minimum</param>
+  <param>0.210358</param>
+  <param>Maximum</param>
+  <param>1017.259197</param>
+  <param>Std. deviation</param>
+  <param>118.12225033408154</param>
+</record>
+<record>
+  <date>2013-05-28T18:45:03</date>
+  <millis>1369777503133</millis>
+  <sequence>3918</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>310</thread>
+  <message>Snapshot statistics</message>
+  <param>1369777471914</param>
+  <param>Samples</param>
+  <param>3</param>
+  <param>Average</param>
+  <param>4846.453824666666</param>
+  <param>Minimum</param>
+  <param>3756.790052</param>
+  <param>Maximum</param>
+  <param>5838.305265</param>
+  <param>Std. deviation</param>
+  <param>4911.027063792543</param>
+</record>
+<record>
+  <date>2013-05-28T19:25:33</date>
+  <millis>1369779933351</millis>
+  <sequence>3921</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>310</thread>
+  <message>Snapshot statistics</message>
+  <param>1369779918729</param>
+  <param>Samples</param>
+  <param>928</param>
+  <param>Average</param>
+  <param>15.369141820043112</param>
+  <param>Minimum</param>
+  <param>0.20521</param>
+  <param>Maximum</param>
+  <param>3133.391768</param>
+  <param>Std. deviation</param>
+  <param>125.06345798485759</param>
+</record>
+<record>
+  <date>2013-05-28T20:13:01</date>
+  <millis>1369782781968</millis>
+  <sequence>3924</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>318</thread>
+  <message>Snapshot statistics</message>
+  <param>1369782768389</param>
+  <param>Samples</param>
+  <param>1356</param>
+  <param>Average</param>
+  <param>9.079378968289081</param>
+  <param>Minimum</param>
+  <param>0.212539</param>
+  <param>Maximum</param>
+  <param>1940.978819</param>
+  <param>Std. deviation</param>
+  <param>75.92027196673854</param>
+</record>
+<record>
+  <date>2013-05-28T20:19:09</date>
+  <millis>1369783149835</millis>
+  <sequence>3927</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>321</thread>
+  <message>Snapshot statistics</message>
+  <param>1369783128695</param>
+  <param>Samples</param>
+  <param>938</param>
+  <param>Average</param>
+  <param>22.465603127931757</param>
+  <param>Minimum</param>
+  <param>0.170204</param>
+  <param>Maximum</param>
+  <param>2016.06733</param>
+  <param>Std. deviation</param>
+  <param>117.19644946633436</param>
+</record>
+<record>
+  <date>2013-05-28T20:21:33</date>
+  <millis>1369783293716</millis>
+  <sequence>3930</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>323</thread>
+  <message>Snapshot statistics</message>
+  <param>1369783276882</param>
+  <param>Samples</param>
+  <param>32</param>
+  <param>Average</param>
+  <param>361.4215856562499</param>
+  <param>Minimum</param>
+  <param>0.245671</param>
+  <param>Maximum</param>
+  <param>2793.225262</param>
+  <param>Std. deviation</param>
+  <param>799.4809614047629</param>
+</record>
+<record>
+  <date>2013-05-28T20:32:14</date>
+  <millis>1369783934815</millis>
+  <sequence>3933</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>325</thread>
+  <message>Snapshot statistics</message>
+  <param>1369783930726</param>
+  <param>Samples</param>
+  <param>407</param>
+  <param>Average</param>
+  <param>9.999128923832929</param>
+  <param>Minimum</param>
+  <param>0.304216</param>
+  <param>Maximum</param>
+  <param>80.317281</param>
+  <param>Std. deviation</param>
+  <param>6.819468691173535</param>
+</record>
+<record>
+  <date>2013-05-29T11:16:52</date>
+  <millis>1369837012088</millis>
+  <sequence>4242</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>333</thread>
+  <message>Snapshot statistics</message>
+  <param>1369837007349</param>
+  <param>Samples</param>
+  <param>466</param>
+  <param>Average</param>
+  <param>0.6770276952789699</param>
+  <param>Minimum</param>
+  <param>0.161938</param>
+  <param>Maximum</param>
+  <param>127.375726</param>
+  <param>Std. deviation</param>
+  <param>11.201583642493071</param>
+</record>
+<record>
+  <date>2013-05-29T11:17:57</date>
+  <millis>1369837077909</millis>
+  <sequence>4553</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>333</thread>
+  <message>Snapshot statistics</message>
+  <param>1369837030739</param>
+  <param>Samples</param>
+  <param>225</param>
+  <param>Average</param>
+  <param>201.57904492444467</param>
+  <param>Minimum</param>
+  <param>0.263236</param>
+  <param>Maximum</param>
+  <param>4992.82029</param>
+  <param>Std. deviation</param>
+  <param>719.2046220197511</param>
+</record>
+<record>
+  <date>2013-05-29T11:19:10</date>
+  <millis>1369837150599</millis>
+  <sequence>4556</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>346</thread>
+  <message>Snapshot statistics</message>
+  <param>1369837145303</param>
+  <param>Samples</param>
+  <param>44</param>
+  <param>Average</param>
+  <param>119.79759613636362</param>
+  <param>Minimum</param>
+  <param>0.176879</param>
+  <param>Maximum</param>
+  <param>4978.613569</param>
+  <param>Std. deviation</param>
+  <param>749.962763680112</param>
+</record>
+<record>
+  <date>2013-05-29T11:28:00</date>
+  <millis>1369837680712</millis>
+  <sequence>4559</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>340</thread>
+  <message>Snapshot statistics</message>
+  <param>1369837675372</param>
+  <param>Samples</param>
+  <param>79</param>
+  <param>Average</param>
+  <param>30.06658174683544</param>
+  <param>Minimum</param>
+  <param>0.178131</param>
+  <param>Maximum</param>
+  <param>711.967899</param>
+  <param>Std. deviation</param>
+  <param>105.74941548808566</param>
+</record>
+<record>
+  <date>2013-05-29T11:55:12</date>
+  <millis>1369839312097</millis>
+  <sequence>4564</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>359</thread>
+  <message>Snapshot statistics</message>
+  <param>1369839304445</param>
+  <param>Samples</param>
+  <param>595</param>
+  <param>Average</param>
+  <param>12.840240776470587</param>
+  <param>Minimum</param>
+  <param>0.16585</param>
+  <param>Maximum</param>
+  <param>275.919904</param>
+  <param>Std. deviation</param>
+  <param>24.299146672859692</param>
+</record>
+<record>
+  <date>2013-05-29T12:27:41</date>
+  <millis>1369841261166</millis>
+  <sequence>4878</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>405</thread>
+  <message>Snapshot statistics</message>
+  <param>1369841242347</param>
+  <param>Samples</param>
+  <param>24</param>
+  <param>Average</param>
+  <param>418.8422646666666</param>
+  <param>Minimum</param>
+  <param>0.171778</param>
+  <param>Maximum</param>
+  <param>2317.926994</param>
+  <param>Std. deviation</param>
+  <param>757.7193655060784</param>
+</record>
+<record>
+  <date>2013-05-29T14:17:06</date>
+  <millis>1369847826266</millis>
+  <sequence>4881</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>411</thread>
+  <message>Snapshot statistics</message>
+  <param>1369847814974</param>
+  <param>Samples</param>
+  <param>144</param>
+  <param>Average</param>
+  <param>21.056271791666674</param>
+  <param>Minimum</param>
+  <param>0.177391</param>
+  <param>Maximum</param>
+  <param>1363.212986</param>
+  <param>Std. deviation</param>
+  <param>154.98998717710023</param>
+</record>
+<record>
+  <date>2013-05-29T14:20:59</date>
+  <millis>1369848059274</millis>
+  <sequence>4886</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>401</thread>
+  <message>Snapshot statistics</message>
+  <param>1369848021752</param>
+  <param>Samples</param>
+  <param>1090</param>
+  <param>Average</param>
+  <param>32.60152084403666</param>
+  <param>Minimum</param>
+  <param>0.209364</param>
+  <param>Maximum</param>
+  <param>5269.686108</param>
+  <param>Std. deviation</param>
+  <param>254.39066792962902</param>
+</record>
+<record>
+  <date>2013-05-29T14:21:08</date>
+  <millis>1369848068853</millis>
+  <sequence>4889</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>415</thread>
+  <message>Snapshot statistics</message>
+  <param>1369848061888</param>
+  <param>Samples</param>
+  <param>175</param>
+  <param>Average</param>
+  <param>38.229429559999986</param>
+  <param>Minimum</param>
+  <param>0.181317</param>
+  <param>Maximum</param>
+  <param>1348.069302</param>
+  <param>Std. deviation</param>
+  <param>202.55862517960307</param>
+</record>
+<record>
+  <date>2013-05-29T16:07:22</date>
+  <millis>1369854442170</millis>
+  <sequence>4892</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>415</thread>
+  <message>Snapshot statistics</message>
+  <param>1369854395858</param>
+  <param>Samples</param>
+  <param>4630</param>
+  <param>Average</param>
+  <param>9.960958919006528</param>
+  <param>Minimum</param>
+  <param>0.263882</param>
+  <param>Maximum</param>
+  <param>675.200245</param>
+  <param>Std. deviation</param>
+  <param>14.930944827130052</param>
+</record>
+<record>
+  <date>2013-05-29T17:09:04</date>
+  <millis>1369858144404</millis>
+  <sequence>5211</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>422</thread>
+  <message>Snapshot statistics</message>
+  <param>1369858137857</param>
+  <param>Samples</param>
+  <param>653</param>
+  <param>Average</param>
+  <param>9.933952650842263</param>
+  <param>Minimum</param>
+  <param>0.209538</param>
+  <param>Maximum</param>
+  <param>430.998855</param>
+  <param>Std. deviation</param>
+  <param>20.3028157201449</param>
+</record>
+<record>
+  <date>2013-05-29T17:10:14</date>
+  <millis>1369858214646</millis>
+  <sequence>5532</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>422</thread>
+  <message>Snapshot statistics</message>
+  <param>1369858166954</param>
+  <param>Samples</param>
+  <param>4768</param>
+  <param>Average</param>
+  <param>9.991781643036898</param>
+  <param>Minimum</param>
+  <param>0.214778</param>
+  <param>Maximum</param>
+  <param>4312.04986</param>
+  <param>Std. deviation</param>
+  <param>107.0346779542692</param>
+</record>
+<record>
+  <date>2013-05-30T07:08:15</date>
+  <millis>1369908495449</millis>
+  <sequence>5537</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>433</thread>
+  <message>Snapshot statistics</message>
+  <param>1369908491627</param>
+  <param>Samples</param>
+  <param>362</param>
+  <param>Average</param>
+  <param>1.577375190607733</param>
+  <param>Minimum</param>
+  <param>0.166469</param>
+  <param>Maximum</param>
+  <param>467.090499</param>
+  <param>Std. deviation</param>
+  <param>25.908107026329496</param>
+</record>
+<record>
+  <date>2013-05-30T07:37:07</date>
+  <millis>1369910227382</millis>
+  <sequence>5859</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>445</thread>
+  <message>Snapshot statistics</message>
+  <param>1369910218018</param>
+  <param>Samples</param>
+  <param>655</param>
+  <param>Average</param>
+  <param>1.5807724778625967</param>
+  <param>Minimum</param>
+  <param>0.172218</param>
+  <param>Maximum</param>
+  <param>755.151719</param>
+  <param>Std. deviation</param>
+  <param>30.899726684060873</param>
+</record>
+<record>
+  <date>2013-05-30T07:38:52</date>
+  <millis>1369910332647</millis>
+  <sequence>6182</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>445</thread>
+  <message>Snapshot statistics</message>
+  <param>1369910325865</param>
+  <param>Samples</param>
+  <param>641</param>
+  <param>Average</param>
+  <param>9.919404558502329</param>
+  <param>Minimum</param>
+  <param>0.20524</param>
+  <param>Maximum</param>
+  <param>393.05414</param>
+  <param>Std. deviation</param>
+  <param>31.17606667693874</param>
+</record>
+<record>
+  <date>2013-05-31T07:54:29</date>
+  <millis>1369997669488</millis>
+  <sequence>6508</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>451</thread>
+  <message>Snapshot statistics</message>
+  <param>1369997625381</param>
+  <param>Samples</param>
+  <param>4375</param>
+  <param>Average</param>
+  <param>9.340115061485717</param>
+  <param>Minimum</param>
+  <param>0.20212</param>
+  <param>Maximum</param>
+  <param>10308.019004</param>
+  <param>Std. deviation</param>
+  <param>194.16137338999076</param>
+</record>
+<record>
+  <date>2013-05-31T07:56:01</date>
+  <millis>1369997761629</millis>
+  <sequence>6513</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>462</thread>
+  <message>Snapshot statistics</message>
+  <param>1369997760425</param>
+  <param>Samples</param>
+  <param>77</param>
+  <param>Average</param>
+  <param>0.3012692207792208</param>
+  <param>Minimum</param>
+  <param>0.268728</param>
+  <param>Maximum</param>
+  <param>0.678935</param>
+  <param>Std. deviation</param>
+  <param>9.698901922489267</param>
+</record>
+<record>
+  <date>2013-05-31T07:57:01</date>
+  <millis>1369997821395</millis>
+  <sequence>6840</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>462</thread>
+  <message>Snapshot statistics</message>
+  <param>1369997801557</param>
+  <param>Samples</param>
+  <param>1955</param>
+  <param>Average</param>
+  <param>10.14172988286445</param>
+  <param>Minimum</param>
+  <param>0.217677</param>
+  <param>Maximum</param>
+  <param>4250.423127</param>
+  <param>Std. deviation</param>
+  <param>154.80117570945336</param>
+</record>
+<record>
+  <date>2013-05-31T08:02:58</date>
+  <millis>1369998178591</millis>
+  <sequence>6849</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>482</thread>
+  <message>Snapshot statistics</message>
+  <param>1369998177391</param>
+  <param>Samples</param>
+  <param>67</param>
+  <param>Average</param>
+  <param>0.28429602985074626</param>
+  <param>Minimum</param>
+  <param>0.226493</param>
+  <param>Maximum</param>
+  <param>0.49052</param>
+  <param>Std. deviation</param>
+  <param>9.715842212779643</param>
+</record>
+<record>
+  <date>2013-05-31T08:03:32</date>
+  <millis>1369998212460</millis>
+  <sequence>7177</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>486</thread>
+  <message>Snapshot statistics</message>
+  <param>1369998209807</param>
+  <param>Samples</param>
+  <param>131</param>
+  <param>Average</param>
+  <param>0.3779907328244275</param>
+  <param>Minimum</param>
+  <param>0.298086</param>
+  <param>Maximum</param>
+  <param>0.544314</param>
+  <param>Std. deviation</param>
+  <param>9.622130890189654</param>
+</record>
+<record>
+  <date>2013-05-31T14:14:17</date>
+  <millis>1370020457847</millis>
+  <sequence>7512</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>534</thread>
+  <message>Snapshot statistics</message>
+  <param>1370020455981</param>
+  <param>Samples</param>
+  <param>123</param>
+  <param>Average</param>
+  <param>0.25343658536585356</param>
+  <param>Minimum</param>
+  <param>0.179769</param>
+  <param>Maximum</param>
+  <param>0.898204</param>
+  <param>Std. deviation</param>
+  <param>9.747026553935978</param>
+</record>
+<record>
+  <date>2013-05-31T14:15:05</date>
+  <millis>1370020505611</millis>
+  <sequence>7842</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>525</thread>
+  <message>Snapshot statistics</message>
+  <param>1370020504468</param>
+  <param>Samples</param>
+  <param>62</param>
+  <param>Average</param>
+  <param>0.2892589516129032</param>
+  <param>Minimum</param>
+  <param>0.172586</param>
+  <param>Maximum</param>
+  <param>0.580119</param>
+  <param>Std. deviation</param>
+  <param>9.711116553276607</param>
+</record>
+<record>
+  <date>2013-05-31T14:15:30</date>
+  <millis>1370020530454</millis>
+  <sequence>8173</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>525</thread>
+  <message>Snapshot statistics</message>
+  <param>1370020528961</param>
+  <param>Samples</param>
+  <param>98</param>
+  <param>Average</param>
+  <param>0.32622296938775497</param>
+  <param>Minimum</param>
+  <param>0.223879</param>
+  <param>Maximum</param>
+  <param>1.072595</param>
+  <param>Std. deviation</param>
+  <param>9.674391415891229</param>
+</record>
+<record>
+  <date>2013-05-31T14:16:11</date>
+  <millis>1370020571560</millis>
+  <sequence>8505</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>534</thread>
+  <message>Snapshot statistics</message>
+  <param>1370020568682</param>
+  <param>Samples</param>
+  <param>237</param>
+  <param>Average</param>
+  <param>3.989567945147681</param>
+  <param>Minimum</param>
+  <param>0.21692</param>
+  <param>Maximum</param>
+  <param>291.540088</param>
+  <param>Std. deviation</param>
+  <param>27.54750543006188</param>
+</record>
+<record>
+  <date>2013-05-31T15:57:35</date>
+  <millis>1370026655703</millis>
+  <sequence>8838</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>525</thread>
+  <message>Snapshot statistics</message>
+  <param>1370026654557</param>
+  <param>Samples</param>
+  <param>58</param>
+  <param>Average</param>
+  <param>0.3152783965517241</param>
+  <param>Minimum</param>
+  <param>0.237689</param>
+  <param>Maximum</param>
+  <param>0.451579</param>
+  <param>Std. deviation</param>
+  <param>9.684856103129636</param>
+</record>
+<record>
+  <date>2013-05-31T16:23:05</date>
+  <millis>1370028185607</millis>
+  <sequence>9172</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>549</thread>
+  <message>Snapshot statistics</message>
+  <param>1370028182332</param>
+  <param>Samples</param>
+  <param>240</param>
+  <param>Average</param>
+  <param>0.2373442583333335</param>
+  <param>Minimum</param>
+  <param>0.184673</param>
+  <param>Maximum</param>
+  <param>5.511439</param>
+  <param>Std. deviation</param>
+  <param>9.76875553209994</param>
+</record>
+<record>
+  <date>2013-05-31T16:23:46</date>
+  <millis>1370028226343</millis>
+  <sequence>9507</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>553</thread>
+  <message>Snapshot statistics</message>
+  <param>1370028225129</param>
+  <param>Samples</param>
+  <param>88</param>
+  <param>Average</param>
+  <param>0.2814476363636364</param>
+  <param>Minimum</param>
+  <param>0.214329</param>
+  <param>Maximum</param>
+  <param>0.489258</param>
+  <param>Std. deviation</param>
+  <param>9.71867799754177</param>
+</record>
+<record>
+  <date>2013-05-31T16:39:06</date>
+  <millis>1370029146367</millis>
+  <sequence>9843</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>549</thread>
+  <message>Snapshot statistics</message>
+  <param>1370029145224</param>
+  <param>Samples</param>
+  <param>82</param>
+  <param>Average</param>
+  <param>0.20170206097560975</param>
+  <param>Minimum</param>
+  <param>0.172439</param>
+  <param>Maximum</param>
+  <param>0.492108</param>
+  <param>Std. deviation</param>
+  <param>9.798439746632354</param>
+</record>
+<record>
+  <date>2013-05-31T17:20:35</date>
+  <millis>1370031635414</millis>
+  <sequence>10180</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>570</thread>
+  <message>Snapshot statistics</message>
+  <param>1370031632290</param>
+  <param>Samples</param>
+  <param>251</param>
+  <param>Average</param>
+  <param>1.2561995298804782</param>
+  <param>Minimum</param>
+  <param>0.175915</param>
+  <param>Maximum</param>
+  <param>234.668286</param>
+  <param>Std. deviation</param>
+  <param>17.157618288215186</param>
+</record>
+<record>
+  <date>2013-05-31T17:28:23</date>
+  <millis>1370032103376</millis>
+  <sequence>10518</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>584</thread>
+  <message>Snapshot statistics</message>
+  <param>1370032099695</param>
+  <param>Samples</param>
+  <param>242</param>
+  <param>Average</param>
+  <param>0.2678747479338844</param>
+  <param>Minimum</param>
+  <param>0.166137</param>
+  <param>Maximum</param>
+  <param>0.61414</param>
+  <param>Std. deviation</param>
+  <param>9.732386129278845</param>
+</record>
+<record>
+  <date>2013-05-31T17:28:44</date>
+  <millis>1370032124076</millis>
+  <sequence>10857</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>584</thread>
+  <message>Snapshot statistics</message>
+  <param>1370032118335</param>
+  <param>Samples</param>
+  <param>419</param>
+  <param>Average</param>
+  <param>6.452143608591884</param>
+  <param>Minimum</param>
+  <param>0.227296</param>
+  <param>Maximum</param>
+  <param>416.608824</param>
+  <param>Std. deviation</param>
+  <param>26.119441888975086</param>
+</record>
+<record>
+  <date>2013-05-31T17:33:18</date>
+  <millis>1370032398419</millis>
+  <sequence>11199</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>600</thread>
+  <message>Snapshot statistics</message>
+  <param>1370032396151</param>
+  <param>Samples</param>
+  <param>27</param>
+  <param>Average</param>
+  <param>1.811843111111111</param>
+  <param>Minimum</param>
+  <param>0.164061</param>
+  <param>Maximum</param>
+  <param>43.162297</param>
+  <param>Std. deviation</param>
+  <param>11.52447645632194</param>
+</record>
+<record>
+  <date>2013-05-31T17:34:01</date>
+  <millis>1370032441984</millis>
+  <sequence>11202</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>602</thread>
+  <message>Snapshot statistics</message>
+  <param>1370032440236</param>
+  <param>Samples</param>
+  <param>87</param>
+  <param>Average</param>
+  <param>2.7070481494252876</param>
+  <param>Minimum</param>
+  <param>0.17582</param>
+  <param>Maximum</param>
+  <param>127.096647</param>
+  <param>Std. deviation</param>
+  <param>17.434317641132715</param>
+</record>
+<record>
+  <date>2013-05-31T17:37:01</date>
+  <millis>1370032621556</millis>
+  <sequence>11546</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>605</thread>
+  <message>Snapshot statistics</message>
+  <param>1370032614282</param>
+  <param>Samples</param>
+  <param>612</param>
+  <param>Average</param>
+  <param>5.888717638888892</param>
+  <param>Minimum</param>
+  <param>0.209896</param>
+  <param>Maximum</param>
+  <param>1221.277366</param>
+  <param>Std. deviation</param>
+  <param>65.39901928346218</param>
+</record>
+<record>
+  <date>2013-05-31T17:38:57</date>
+  <millis>1370032737487</millis>
+  <sequence>11549</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>605</thread>
+  <message>Snapshot statistics</message>
+  <param>1370032638889</param>
+  <param>Samples</param>
+  <param>6390</param>
+  <param>Average</param>
+  <param>15.104524931142423</param>
+  <param>Minimum</param>
+  <param>0.193371</param>
+  <param>Maximum</param>
+  <param>27515.122544</param>
+  <param>Std. deviation</param>
+  <param>398.2910780106015</param>
+</record>
+<record>
+  <date>2013-05-31T17:39:29</date>
+  <millis>1370032769353</millis>
+  <sequence>11552</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>621</thread>
+  <message>Snapshot statistics</message>
+  <param>1370032763181</param>
+  <param>Samples</param>
+  <param>500</param>
+  <param>Average</param>
+  <param>6.022210423999997</param>
+  <param>Minimum</param>
+  <param>0.222663</param>
+  <param>Maximum</param>
+  <param>1276.751756</param>
+  <param>Std. deviation</param>
+  <param>76.93297390875138</param>
+</record>
+<record>
+  <date>2013-05-31T17:40:04</date>
+  <millis>1370032804020</millis>
+  <sequence>11555</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>621</thread>
+  <message>Snapshot statistics</message>
+  <param>1370032799262</param>
+  <param>Samples</param>
+  <param>342</param>
+  <param>Average</param>
+  <param>0.19872570175438609</param>
+  <param>Minimum</param>
+  <param>0.170035</param>
+  <param>Maximum</param>
+  <param>0.527116</param>
+  <param>Std. deviation</param>
+  <param>9.8013465312435</param>
+</record>
+<record>
+  <date>2013-05-31T17:40:30</date>
+  <millis>1370032830552</millis>
+  <sequence>11901</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>619</thread>
+  <message>Snapshot statistics</message>
+  <param>1370032828810</param>
+  <param>Samples</param>
+  <param>13</param>
+  <param>Average</param>
+  <param>0.34754</param>
+  <param>Minimum</param>
+  <param>0.237067</param>
+  <param>Maximum</param>
+  <param>0.462509</param>
+  <param>Std. deviation</param>
+  <param>9.652728302622432</param>
+</record>
+<record>
+  <date>2013-05-31T17:41:37</date>
+  <millis>1370032897962</millis>
+  <sequence>11906</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>605</thread>
+  <message>Snapshot statistics</message>
+  <param>1370032893728</param>
+  <param>Samples</param>
+  <param>294</param>
+  <param>Average</param>
+  <param>0.6588799387755102</param>
+  <param>Minimum</param>
+  <param>0.175911</param>
+  <param>Maximum</param>
+  <param>10.472961</param>
+  <param>Std. deviation</param>
+  <param>9.523287028805488</param>
+</record>
+<record>
+  <date>2013-05-31T17:42:57</date>
+  <millis>1370032977727</millis>
+  <sequence>12256</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>619</thread>
+  <message>Snapshot statistics</message>
+  <param>1370032916609</param>
+  <param>Samples</param>
+  <param>6091</param>
+  <param>Average</param>
+  <param>9.72391263470694</param>
+  <param>Minimum</param>
+  <param>0.212245</param>
+  <param>Maximum</param>
+  <param>15566.455647</param>
+  <param>Std. deviation</param>
+  <param>211.2742508860145</param>
+</record>
+<record>
+  <date>2013-05-31T17:45:02</date>
+  <millis>1370033102742</millis>
+  <sequence>12259</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>619</thread>
+  <message>Snapshot statistics</message>
+  <param>1370033099882</param>
+  <param>Samples</param>
+  <param>199</param>
+  <param>Average</param>
+  <param>0.30161366331658296</param>
+  <param>Minimum</param>
+  <param>0.192969</param>
+  <param>Maximum</param>
+  <param>0.664028</param>
+  <param>Std. deviation</param>
+  <param>9.699088841558124</param>
+</record>
+<record>
+  <date>2013-05-31T17:45:59</date>
+  <millis>1370033159864</millis>
+  <sequence>12611</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>631</thread>
+  <message>Snapshot statistics</message>
+  <param>1370033158525</param>
+  <param>Samples</param>
+  <param>53</param>
+  <param>Average</param>
+  <param>0.3030454150943395</param>
+  <param>Minimum</param>
+  <param>0.223996</param>
+  <param>Maximum</param>
+  <param>0.516116</param>
+  <param>Std. deviation</param>
+  <param>9.69709516691379</param>
+</record>
+<record>
+  <date>2013-05-31T18:03:24</date>
+  <millis>1370034204534</millis>
+  <sequence>12968</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>619</thread>
+  <message>Snapshot statistics</message>
+  <param>1370034203470</param>
+  <param>Samples</param>
+  <param>84</param>
+  <param>Average</param>
+  <param>0.2047112261904762</param>
+  <param>Minimum</param>
+  <param>0.174417</param>
+  <param>Maximum</param>
+  <param>0.508724</param>
+  <param>Std. deviation</param>
+  <param>9.79547768725726</param>
+</record>
+<record>
+  <date>2013-05-31T18:04:41</date>
+  <millis>1370034281940</millis>
+  <sequence>13320</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>658</thread>
+  <message>Snapshot statistics</message>
+  <param>1370034280532</param>
+  <param>Samples</param>
+  <param>100</param>
+  <param>Average</param>
+  <param>0.30140358000000017</param>
+  <param>Minimum</param>
+  <param>0.218414</param>
+  <param>Maximum</param>
+  <param>0.500011</param>
+  <param>Std. deviation</param>
+  <param>9.698702816419406</param>
+</record>
+<record>
+  <date>2013-05-31T18:06:31</date>
+  <millis>1370034391940</millis>
+  <sequence>13673</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>665</thread>
+  <message>Snapshot statistics</message>
+  <param>1370034388550</param>
+  <param>Samples</param>
+  <param>230</param>
+  <param>Average</param>
+  <param>0.3440992782608698</param>
+  <param>Minimum</param>
+  <param>0.17422</param>
+  <param>Maximum</param>
+  <param>0.493692</param>
+  <param>Std. deviation</param>
+  <param>9.656059037251584</param>
+</record>
+<record>
+  <date>2013-05-31T18:07:53</date>
+  <millis>1370034473614</millis>
+  <sequence>14029</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>659</thread>
+  <message>Snapshot statistics</message>
+  <param>1370034471994</param>
+  <param>Samples</param>
+  <param>106</param>
+  <param>Average</param>
+  <param>0.21799150943396237</param>
+  <param>Minimum</param>
+  <param>0.170248</param>
+  <param>Maximum</param>
+  <param>0.379772</param>
+  <param>Std. deviation</param>
+  <param>9.782127111752137</param>
+</record>
+<record>
+  <date>2013-05-31T18:08:26</date>
+  <millis>1370034506154</millis>
+  <sequence>14384</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>659</thread>
+  <message>Snapshot statistics</message>
+  <param>1370034501000</param>
+  <param>Samples</param>
+  <param>430</param>
+  <param>Average</param>
+  <param>0.3715769302325584</param>
+  <param>Minimum</param>
+  <param>0.223854</param>
+  <param>Maximum</param>
+  <param>0.569819</param>
+  <param>Std. deviation</param>
+  <param>9.628853569141068</param>
+</record>
+<record>
+  <date>2013-05-31T18:08:56</date>
+  <millis>1370034536683</millis>
+  <sequence>14740</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>674</thread>
+  <message>Snapshot statistics</message>
+  <param>1370034524997</param>
+  <param>Samples</param>
+  <param>1167</param>
+  <param>Average</param>
+  <param>10.004254590402741</param>
+  <param>Minimum</param>
+  <param>0.203885</param>
+  <param>Maximum</param>
+  <param>817.002595</param>
+  <param>Std. deviation</param>
+  <param>55.63834230501426</param>
+</record>
+<record>
+  <date>2013-05-31T18:10:29</date>
+  <millis>1370034629504</millis>
+  <sequence>14747</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>674</thread>
+  <message>Snapshot statistics</message>
+  <param>1370034627270</param>
+  <param>Samples</param>
+  <param>169</param>
+  <param>Average</param>
+  <param>0.24424655621301777</param>
+  <param>Minimum</param>
+  <param>0.172952</param>
+  <param>Maximum</param>
+  <param>0.31651</param>
+  <param>Std. deviation</param>
+  <param>9.755858265934037</param>
+</record>
+<record>
+  <date>2013-05-31T18:11:40</date>
+  <millis>1370034700211</millis>
+  <sequence>15107</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>659</thread>
+  <message>Snapshot statistics</message>
+  <param>1370034697453</param>
+  <param>Samples</param>
+  <param>233</param>
+  <param>Average</param>
+  <param>2.8656973004291837</param>
+  <param>Minimum</param>
+  <param>0.233664</param>
+  <param>Maximum</param>
+  <param>10.877544</param>
+  <param>Std. deviation</param>
+  <param>8.337288447156098</param>
+</record>
+<record>
+  <date>2013-05-31T18:12:53</date>
+  <millis>1370034773400</millis>
+  <sequence>15470</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>674</thread>
+  <message>Snapshot statistics</message>
+  <param>1370034770266</param>
+  <param>Samples</param>
+  <param>312</param>
+  <param>Average</param>
+  <param>10.008886580128202</param>
+  <param>Minimum</param>
+  <param>0.19622</param>
+  <param>Maximum</param>
+  <param>1736.478129</param>
+  <param>Std. deviation</param>
+  <param>113.1588956569545</param>
+</record>
+<record>
+  <date>2013-05-31T18:13:15</date>
+  <millis>1370034795942</millis>
+  <sequence>15473</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>685</thread>
+  <message>Snapshot statistics</message>
+  <param>1370034793901</param>
+  <param>Samples</param>
+  <param>17</param>
+  <param>Average</param>
+  <param>11.842210117647058</param>
+  <param>Minimum</param>
+  <param>0.563073</param>
+  <param>Maximum</param>
+  <param>191.504539</param>
+  <param>Std. deviation</param>
+  <param>44.95338530440006</param>
+</record>
+<record>
+  <date>2013-05-31T18:14:34</date>
+  <millis>1370034874703</millis>
+  <sequence>15476</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>674</thread>
+  <message>Snapshot statistics</message>
+  <param>1370034872342</param>
+  <param>Samples</param>
+  <param>172</param>
+  <param>Average</param>
+  <param>0.2424113488372093</param>
+  <param>Minimum</param>
+  <param>0.185028</param>
+  <param>Maximum</param>
+  <param>0.423719</param>
+  <param>Std. deviation</param>
+  <param>9.757751881571156</param>
+</record>
+<record>
+  <date>2013-05-31T18:15:00</date>
+  <millis>1370034900812</millis>
+  <sequence>15838</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>694</thread>
+  <message>Snapshot statistics</message>
+  <param>1370034896909</param>
+  <param>Samples</param>
+  <param>282</param>
+  <param>Average</param>
+  <param>0.2030122588652484</param>
+  <param>Minimum</param>
+  <param>0.174305</param>
+  <param>Maximum</param>
+  <param>0.795048</param>
+  <param>Std. deviation</param>
+  <param>9.797089641513322</param>
+</record>
+<record>
+  <date>2013-05-31T18:15:41</date>
+  <millis>1370034941420</millis>
+  <sequence>16203</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>674</thread>
+  <message>Snapshot statistics</message>
+  <param>1370034938836</param>
+  <param>Samples</param>
+  <param>226</param>
+  <param>Average</param>
+  <param>0.506064309734513</param>
+  <param>Minimum</param>
+  <param>0.18512</param>
+  <param>Maximum</param>
+  <param>10.36469</param>
+  <param>Std. deviation</param>
+  <param>9.612024296192212</param>
+</record>
+<record>
+  <date>2013-05-31T18:16:59</date>
+  <millis>1370035019683</millis>
+  <sequence>16569</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>694</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035014036</param>
+  <param>Samples</param>
+  <param>508</param>
+  <param>Average</param>
+  <param>9.685083200787405</param>
+  <param>Minimum</param>
+  <param>0.212722</param>
+  <param>Maximum</param>
+  <param>760.130727</param>
+  <param>Std. deviation</param>
+  <param>41.29927980208883</param>
+</record>
+<record>
+  <date>2013-05-31T18:17:19</date>
+  <millis>1370035039939</millis>
+  <sequence>16572</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>694</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035037120</param>
+  <param>Samples</param>
+  <param>138</param>
+  <param>Average</param>
+  <param>0.24840998550724622</param>
+  <param>Minimum</param>
+  <param>0.217843</param>
+  <param>Maximum</param>
+  <param>0.443082</param>
+  <param>Std. deviation</param>
+  <param>9.75168853294562</param>
+</record>
+<record>
+  <date>2013-05-31T18:17:51</date>
+  <millis>1370035071603</millis>
+  <sequence>16938</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>685</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035057445</param>
+  <param>Samples</param>
+  <param>1414</param>
+  <param>Average</param>
+  <param>9.999822827439882</param>
+  <param>Minimum</param>
+  <param>0.212922</param>
+  <param>Maximum</param>
+  <param>972.054708</param>
+  <param>Std. deviation</param>
+  <param>46.54652749296394</param>
+</record>
+<record>
+  <date>2013-05-31T18:18:24</date>
+  <millis>1370035104344</millis>
+  <sequence>16941</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>685</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035097793</param>
+  <param>Samples</param>
+  <param>49</param>
+  <param>Average</param>
+  <param>71.44163385714285</param>
+  <param>Minimum</param>
+  <param>0.260457</param>
+  <param>Maximum</param>
+  <param>1970.357051</param>
+  <param>Std. deviation</param>
+  <param>353.21995702521934</param>
+</record>
+<record>
+  <date>2013-05-31T18:19:57</date>
+  <millis>1370035197024</millis>
+  <sequence>16946</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>705</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035191213</param>
+  <param>Samples</param>
+  <param>580</param>
+  <param>Average</param>
+  <param>9.364137936206903</param>
+  <param>Minimum</param>
+  <param>0.236606</param>
+  <param>Maximum</param>
+  <param>720.534204</param>
+  <param>Std. deviation</param>
+  <param>52.29823157647701</param>
+</record>
+<record>
+  <date>2013-05-31T18:20:18</date>
+  <millis>1370035218814</millis>
+  <sequence>16949</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>685</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035212393</param>
+  <param>Samples</param>
+  <param>605</param>
+  <param>Average</param>
+  <param>6.22086010743802</param>
+  <param>Minimum</param>
+  <param>0.265473</param>
+  <param>Maximum</param>
+  <param>435.968428</param>
+  <param>Std. deviation</param>
+  <param>21.938898480640912</param>
+</record>
+<record>
+  <date>2013-05-31T18:20:39</date>
+  <millis>1370035239384</millis>
+  <sequence>17319</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>717</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035236414</param>
+  <param>Samples</param>
+  <param>255</param>
+  <param>Average</param>
+  <param>7.01477603137255</param>
+  <param>Minimum</param>
+  <param>0.252046</param>
+  <param>Maximum</param>
+  <param>196.900247</param>
+  <param>Std. deviation</param>
+  <param>16.416527075360356</param>
+</record>
+<record>
+  <date>2013-05-31T18:21:46</date>
+  <millis>1370035306713</millis>
+  <sequence>17690</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>685</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035301035</param>
+  <param>Samples</param>
+  <param>521</param>
+  <param>Average</param>
+  <param>7.702957385796545</param>
+  <param>Minimum</param>
+  <param>0.182921</param>
+  <param>Maximum</param>
+  <param>3095.167925</param>
+  <param>Std. deviation</param>
+  <param>138.04410887436032</param>
+</record>
+<record>
+  <date>2013-05-31T18:22:04</date>
+  <millis>1370035324805</millis>
+  <sequence>17693</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>705</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035323176</param>
+  <param>Samples</param>
+  <param>1</param>
+  <param>Average</param>
+  <param>0.43753</param>
+  <param>Minimum</param>
+  <param>9.223372036854776E18</param>
+  <param>Maximum</param>
+  <param>0.43753</param>
+  <param>Std. deviation</param>
+  <param>9.56247</param>
+</record>
+<record>
+  <date>2013-05-31T18:27:52</date>
+  <millis>1370035672963</millis>
+  <sequence>17714</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>705</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035668415</param>
+  <param>Samples</param>
+  <param>428</param>
+  <param>Average</param>
+  <param>3.0370403247663513</param>
+  <param>Minimum</param>
+  <param>0.164501</param>
+  <param>Maximum</param>
+  <param>1058.897737</param>
+  <param>Std. deviation</param>
+  <param>52.172341192112825</param>
+</record>
+<record>
+  <date>2013-05-31T18:28:57</date>
+  <millis>1370035737235</millis>
+  <sequence>17719</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>685</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035733519</param>
+  <param>Samples</param>
+  <param>189</param>
+  <param>Average</param>
+  <param>8.259666666666673</param>
+  <param>Minimum</param>
+  <param>0.169737</param>
+  <param>Maximum</param>
+  <param>1520.390142</param>
+  <param>Std. deviation</param>
+  <param>110.29718867335832</param>
+</record>
+<record>
+  <date>2013-05-31T18:29:55</date>
+  <millis>1370035795113</millis>
+  <sequence>17724</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>685</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035781784</param>
+  <param>Samples</param>
+  <param>1331</param>
+  <param>Average</param>
+  <param>2.412453896318557</param>
+  <param>Minimum</param>
+  <param>0.229146</param>
+  <param>Maximum</param>
+  <param>2465.774374</param>
+  <param>Std. deviation</param>
+  <param>68.89672695386206</param>
+</record>
+<record>
+  <date>2013-05-31T18:30:23</date>
+  <millis>1370035823611</millis>
+  <sequence>17727</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>745</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035819240</param>
+  <param>Samples</param>
+  <param>351</param>
+  <param>Average</param>
+  <param>2.9832930854700868</param>
+  <param>Minimum</param>
+  <param>0.171474</param>
+  <param>Maximum</param>
+  <param>277.409992</param>
+  <param>Std. deviation</param>
+  <param>22.789964570866005</param>
+</record>
+<record>
+  <date>2013-05-31T18:31:16</date>
+  <millis>1370035876169</millis>
+  <sequence>18104</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>685</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035874587</param>
+  <param>Samples</param>
+  <param>114</param>
+  <param>Average</param>
+  <param>0.19129244736842094</param>
+  <param>Minimum</param>
+  <param>0.17556</param>
+  <param>Maximum</param>
+  <param>0.442543</param>
+  <param>Std. deviation</param>
+  <param>9.808772983156922</param>
+</record>
+<record>
+  <date>2013-05-31T18:32:12</date>
+  <millis>1370035932769</millis>
+  <sequence>18484</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>705</thread>
+  <message>Snapshot statistics</message>
+  <param>1370035925567</param>
+  <param>Samples</param>
+  <param>658</param>
+  <param>Average</param>
+  <param>0.24312373100303933</param>
+  <param>Minimum</param>
+  <param>0.229064</param>
+  <param>Maximum</param>
+  <param>1.211514</param>
+  <param>Std. deviation</param>
+  <param>9.757018218011384</param>
+</record>
+<record>
+  <date>2013-05-31T18:34:43</date>
+  <millis>1370036083780</millis>
+  <sequence>18867</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>685</thread>
+  <message>Snapshot statistics</message>
+  <param>1370036081554</param>
+  <param>Samples</param>
+  <param>180</param>
+  <param>Average</param>
+  <param>0.18293863888888895</param>
+  <param>Minimum</param>
+  <param>0.164119</param>
+  <param>Maximum</param>
+  <param>0.382667</param>
+  <param>Std. deviation</param>
+  <param>9.81711765817286</param>
+</record>
+<record>
+  <date>2013-05-31T18:35:18</date>
+  <millis>1370036118906</millis>
+  <sequence>19247</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>759</thread>
+  <message>Snapshot statistics</message>
+  <param>1370036112440</param>
+  <param>Samples</param>
+  <param>502</param>
+  <param>Average</param>
+  <param>6.07479413346613</param>
+  <param>Minimum</param>
+  <param>0.186569</param>
+  <param>Maximum</param>
+  <param>1278.531971</param>
+  <param>Std. deviation</param>
+  <param>60.037207219830606</param>
+</record>
+<record>
+  <date>2013-05-31T18:35:52</date>
+  <millis>1370036152229</millis>
+  <sequence>19250</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>758</thread>
+  <message>Snapshot statistics</message>
+  <param>1370036150445</param>
+  <param>Samples</param>
+  <param>12</param>
+  <param>Average</param>
+  <param>0.3095341666666666</param>
+  <param>Minimum</param>
+  <param>0.190451</param>
+  <param>Maximum</param>
+  <param>0.434513</param>
+  <param>Std. deviation</param>
+  <param>9.690719402926621</param>
+</record>
+<record>
+  <date>2013-05-31T18:37:55</date>
+  <millis>1370036275044</millis>
+  <sequence>19257</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>759</thread>
+  <message>Snapshot statistics</message>
+  <param>1370036272267</param>
+  <param>Samples</param>
+  <param>202</param>
+  <param>Average</param>
+  <param>2.2946001584158418</param>
+  <param>Minimum</param>
+  <param>0.178257</param>
+  <param>Maximum</param>
+  <param>413.967289</param>
+  <param>Std. deviation</param>
+  <param>30.04218998880018</param>
+</record>
+<record>
+  <date>2013-05-31T18:38:38</date>
+  <millis>1370036318535</millis>
+  <sequence>19640</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>766</thread>
+  <message>Snapshot statistics</message>
+  <param>1370036293597</param>
+  <param>Samples</param>
+  <param>566</param>
+  <param>Average</param>
+  <param>33.64895269257948</param>
+  <param>Minimum</param>
+  <param>0.227056</param>
+  <param>Maximum</param>
+  <param>17318.917155</param>
+  <param>Std. deviation</param>
+  <param>728.8464026707811</param>
+</record>
+<record>
+  <date>2013-05-31T18:43:01</date>
+  <millis>1370036581701</millis>
+  <sequence>19645</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>766</thread>
+  <message>Snapshot statistics</message>
+  <param>1370036534235</param>
+  <param>Samples</param>
+  <param>4019</param>
+  <param>Average</param>
+  <param>8.409142676038819</param>
+  <param>Minimum</param>
+  <param>0.199899</param>
+  <param>Maximum</param>
+  <param>14160.401001</param>
+  <param>Std. deviation</param>
+  <param>245.84959066724525</param>
+</record>
+<record>
+  <date>2013-05-31T18:44:40</date>
+  <millis>1370036680783</millis>
+  <sequence>19648</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>773</thread>
+  <message>Snapshot statistics</message>
+  <param>1370036624889</param>
+  <param>Samples</param>
+  <param>4</param>
+  <param>Average</param>
+  <param>6750.1958804999995</param>
+  <param>Minimum</param>
+  <param>1831.827881</param>
+  <param>Maximum</param>
+  <param>11014.221788</param>
+  <param>Std. deviation</param>
+  <param>7521.752941967277</param>
+</record>
+<record>
+  <date>2013-05-31T18:51:37</date>
+  <millis>1370037097918</millis>
+  <sequence>19651</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>771</thread>
+  <message>Snapshot statistics</message>
+  <param>1370036699496</param>
+  <param>Samples</param>
+  <param>18456</param>
+  <param>Average</param>
+  <param>21.194350680916667</param>
+  <param>Minimum</param>
+  <param>0.190711</param>
+  <param>Maximum</param>
+  <param>38079.337986</param>
+  <param>Std. deviation</param>
+  <param>558.1133098478826</param>
+</record>
+<record>
+  <date>2013-06-03T10:01:08</date>
+  <millis>1370264468382</millis>
+  <sequence>19654</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>778</thread>
+  <message>Snapshot statistics</message>
+  <param>1370264449147</param>
+  <param>Samples</param>
+  <param>1922</param>
+  <param>Average</param>
+  <param>9.999581373569209</param>
+  <param>Minimum</param>
+  <param>7.588001</param>
+  <param>Maximum</param>
+  <param>11.978678</param>
+  <param>Std. deviation</param>
+  <param>0.49461498211732</param>
+</record>
+<record>
+  <date>2013-06-03T10:05:04</date>
+  <millis>1370264704920</millis>
+  <sequence>20042</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>799</thread>
+  <message>Snapshot statistics</message>
+  <param>1370264689167</param>
+  <param>Samples</param>
+  <param>1574</param>
+  <param>Average</param>
+  <param>10.00060614866582</param>
+  <param>Minimum</param>
+  <param>6.825849</param>
+  <param>Maximum</param>
+  <param>14.040226</param>
+  <param>Std. deviation</param>
+  <param>0.5096378077120894</param>
+</record>
+<record>
+  <date>2013-06-03T11:23:07</date>
+  <millis>1370269387695</millis>
+  <sequence>20431</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>811</thread>
+  <message>Snapshot statistics</message>
+  <param>1370269380103</param>
+  <param>Samples</param>
+  <param>757</param>
+  <param>Average</param>
+  <param>9.647491923381768</param>
+  <param>Minimum</param>
+  <param>0.367244</param>
+  <param>Maximum</param>
+  <param>150.905195</param>
+  <param>Std. deviation</param>
+  <param>9.495109347181838</param>
+</record>
+<record>
+  <date>2013-06-03T14:22:03</date>
+  <millis>1370280123402</millis>
+  <sequence>20821</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>818</thread>
+  <message>Snapshot statistics</message>
+  <param>1370280117923</param>
+  <param>Samples</param>
+  <param>526</param>
+  <param>Average</param>
+  <param>9.421238197718642</param>
+  <param>Minimum</param>
+  <param>0.206325</param>
+  <param>Maximum</param>
+  <param>312.530312</param>
+  <param>Std. deviation</param>
+  <param>27.66786594303432</param>
+</record>
+<record>
+  <date>2013-06-03T14:24:40</date>
+  <millis>1370280280619</millis>
+  <sequence>21214</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>831</thread>
+  <message>Snapshot statistics</message>
+  <param>1370280273107</param>
+  <param>Samples</param>
+  <param>748</param>
+  <param>Average</param>
+  <param>6.941636791443843</param>
+  <param>Minimum</param>
+  <param>0.166262</param>
+  <param>Maximum</param>
+  <param>1396.30762</param>
+  <param>Std. deviation</param>
+  <param>60.04568089305965</param>
+</record>
+<record>
+  <date>2013-06-03T14:57:55</date>
+  <millis>1370282275041</millis>
+  <sequence>21218</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>834</thread>
+  <message>Snapshot statistics</message>
+  <param>1370282257688</param>
+  <param>Samples</param>
+  <param>1090</param>
+  <param>Average</param>
+  <param>15.46460611651379</param>
+  <param>Minimum</param>
+  <param>0.339561</param>
+  <param>Maximum</param>
+  <param>657.680598</param>
+  <param>Std. deviation</param>
+  <param>37.51677454569678</param>
+</record>
+<record>
+  <date>2013-06-03T14:59:16</date>
+  <millis>1370282356665</millis>
+  <sequence>21611</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>836</thread>
+  <message>Snapshot statistics</message>
+  <param>1370282353744</param>
+  <param>Samples</param>
+  <param>290</param>
+  <param>Average</param>
+  <param>9.99642293103449</param>
+  <param>Minimum</param>
+  <param>8.711752</param>
+  <param>Maximum</param>
+  <param>11.092048</param>
+  <param>Std. deviation</param>
+  <param>0.5005538276127547</param>
+</record>
+<record>
+  <date>2013-06-04T07:47:28</date>
+  <millis>1370342848558</millis>
+  <sequence>22005</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>838</thread>
+  <message>Snapshot statistics</message>
+  <param>1370342845153</param>
+  <param>Samples</param>
+  <param>339</param>
+  <param>Average</param>
+  <param>9.497192474926251</param>
+  <param>Minimum</param>
+  <param>0.418917</param>
+  <param>Maximum</param>
+  <param>11.092421</param>
+  <param>Std. deviation</param>
+  <param>2.240608148692642</param>
+</record>
+<record>
+  <date>2013-06-04T11:10:16</date>
+  <millis>1370355016689</millis>
+  <sequence>22401</sequence>
+  <logger>org.netbeans.ui.performance</logger>
+  <level>CONFIG</level>
+  <thread>838</thread>
+  <message>Snapshot statistics</message>
+  <param>1370355010051</param>
+  <param>Samples</param>
+  <param>120</param>
+  <param>Average</param>
+  <param>23.338526641666654</param>
+  <param>Minimum</param>
+  <param>0.174475</param>
+  <param>Maximum</param>
+  <param>1148.916922</param>
+  <param>Std. deviation</param>
+  <param>143.44157551147805</param>
+</record>
+<record>
+  <date>2013-07-11T07:33:29</date>
+  <millis>1373538809381</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-07-11T07:33:29</date>
+  <millis>1373538809384</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-07-11T07:33:29</date>
+  <millis>1373538809384</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-07-11T07:33:37</date>
+  <millis>1373538817016</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>20</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-07-11T07:33:55</date>
+  <millis>1373538835157</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-07-11T08:04:07</date>
+  <millis>1373540647002</millis>
+  <sequence>53</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>47</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>148</param>
+</record>
+<record>
+  <date>2013-07-11T08:04:11</date>
+  <millis>1373540651218</millis>
+  <sequence>54</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>54</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-07-11T08:04:11</date>
+  <millis>1373540651221</millis>
+  <sequence>56</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>54</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2013-07-11T08:04:11</date>
+  <millis>1373540651295</millis>
+  <sequence>60</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-07-15T13:28:51</date>
+  <millis>1373905731010</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2013-07-15T13:28:51</date>
+  <millis>1373905731012</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-07-15T13:28:51</date>
+  <millis>1373905731013</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-07-15T13:28:58</date>
+  <millis>1373905738074</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <thread>20</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8283107328</param>
+</record>
+<record>
+  <date>2013-07-15T13:29:09</date>
+  <millis>1373905749584</millis>
+  <sequence>49</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-07-15T13:29:22</date>
+  <millis>1373905762953</millis>
+  <sequence>50</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>20</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>420</param>
+</record>
+<record>
+  <date>2013-07-15T13:29:30</date>
+  <millis>1373905770154</millis>
+  <sequence>51</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-07-15T13:30:03</date>
+  <millis>1373905803250</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>27</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>58</param>
+</record>
+<record>
+  <date>2013-07-15T13:30:04</date>
+  <millis>1373905804968</millis>
+  <sequence>53</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-07-15T14:06:08</date>
+  <millis>1373907968603</millis>
+  <sequence>54</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>43</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>252</param>
+</record>
+<record>
+  <date>2013-07-15T14:06:09</date>
+  <millis>1373907969973</millis>
+  <sequence>55</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-07-15T14:21:44</date>
+  <millis>1373908904068</millis>
+  <sequence>56</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>45</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>52</param>
+</record>
+<record>
+  <date>2013-07-15T14:21:58</date>
+  <millis>1373908918666</millis>
+  <sequence>57</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-07-15T14:22:13</date>
+  <millis>1373908933687</millis>
+  <sequence>58</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>44</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>253</param>
+</record>
+<record>
+  <date>2013-07-15T14:22:44</date>
+  <millis>1373908964018</millis>
+  <sequence>59</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-07-15T14:22:54</date>
+  <millis>1373908974553</millis>
+  <sequence>60</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>45</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>58</param>
+</record>
+<record>
+  <date>2013-07-15T14:22:58</date>
+  <millis>1373908978713</millis>
+  <sequence>61</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-07-15T15:17:27</date>
+  <millis>1373912247961</millis>
+  <sequence>62</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>49</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>246</param>
+</record>
+<record>
+  <date>2013-07-15T15:17:31</date>
+  <millis>1373912251252</millis>
+  <sequence>63</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-07-15T15:33:43</date>
+  <millis>1373913223986</millis>
+  <sequence>64</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>51</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>50</param>
+</record>
+<record>
+  <date>2013-07-15T15:33:45</date>
+  <millis>1373913225142</millis>
+  <sequence>65</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-07-15T15:54:48</date>
+  <millis>1373914488339</millis>
+  <sequence>66</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>53</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>249</param>
+</record>
+<record>
+  <date>2013-07-15T15:54:48</date>
+  <millis>1373914488557</millis>
+  <sequence>67</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-07-15T18:02:32</date>
+  <millis>1373922152863</millis>
+  <sequence>68</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>55</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>242</param>
+</record>
+<record>
+  <date>2013-07-15T18:02:33</date>
+  <millis>1373922153240</millis>
+  <sequence>69</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-07-15T18:04:08</date>
+  <millis>1373922248556</millis>
+  <sequence>70</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>57</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>57</param>
+</record>
+<record>
+  <date>2013-07-15T18:04:10</date>
+  <millis>1373922250831</millis>
+  <sequence>71</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
