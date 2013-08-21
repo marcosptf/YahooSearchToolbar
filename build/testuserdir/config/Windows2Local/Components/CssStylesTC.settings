@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+    <module name="org.netbeans.modules.css.visual/3" spec="3.13.1"/>
+    <instanceof class="java.awt.Component"/>
+    <instanceof class="java.awt.Container"/>
+    <instanceof class="java.awt.MenuContainer"/>
+    <instanceof class="java.awt.image.ImageObserver"/>
+    <instanceof class="java.io.Externalizable"/>
+    <instanceof class="java.io.Serializable"/>
+    <instanceof class="java.lang.Object"/>
+    <instanceof class="javax.accessibility.Accessible"/>
+    <instanceof class="javax.swing.JComponent"/>
+    <instanceof class="javax.swing.TransferHandler$HasGetTransferHandler"/>
+    <instanceof class="org.netbeans.modules.css.visual.api.CssStylesTC"/>
+    <instanceof class="org.openide.util.HelpCtx$Provider"/>
+    <instanceof class="org.openide.util.Lookup$Provider"/>
+    <instanceof class="org.openide.windows.TopComponent"/>
+    <serialdata class="org.netbeans.modules.css.visual.api.CssStylesTC">
+        ACED0005737200296F72672E6F70656E6964652E77696E646F77732E546F70436F6D706F6E656E74245265706C6163657284
+        874494BDDF6D64030000787074002F6F72672E6E65746265616E732E6D6F64756C65732E6373732E76697375616C2E617069
+        2E4373735374796C657354437372000F6A6176612E6C616E672E53686F7274684D37133460DA5202000153000576616C7565
+        787200106A6176612E6C616E672E4E756D62657286AC951D0B94E08B0200007870000177040000000174000C20457374696C
+        6F732043535374005845737461206A616E656C61206D6F737472612072656772617320646520657374696C6F20636F727265
+        73706F6E64656E74657320646520756D20656C656D656E746F2065207065726D6974652065646974C3A12D6C6F732E7078
+    </serialdata>
+</settings>

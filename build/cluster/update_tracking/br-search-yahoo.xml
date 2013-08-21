@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="br.search.yahoo">
+    <module_version install_time="1368972241681" last="true" origin="installer" specification_version="1.0">
+        <file crc="1109200032" name="config/Modules/br-search-yahoo.xml"/>
+        <file crc="316524925" name="modules/br-search-yahoo.jar"/>
+        <file crc="1997035089" name="modules/ext/org-openide-awt.jar"/>
+        <file crc="369155445" name="modules/ext/org-openide-util.jar"/>
+    </module_version>
+</module>
