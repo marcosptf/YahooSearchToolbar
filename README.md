@@ -26,6 +26,11 @@ ou nos sites mais usados pelos desenvolvedores como:
 Compartível com o Netbeans 7.3, você pode instalar este plugin baixando o projeto:
 https://github.com/marcosptf/YahooSearchToolbar/archive/v-5.1.zip
 
+publicado no netbeans plugins:
+http://plugins.netbeans.org/plugin/59448/?show=true
+
+
+
 E instalar no netbeans o plugin:
 Abra o zip e encontre o plugin no caminho:
 YahooSearchToolbar/blob/v-5.1/build/br-search-yahoo-v5.2.nbm
@@ -36,6 +41,7 @@ Passos para instalação:
 
 
 Passos para desistalação:
+
 
 
 
