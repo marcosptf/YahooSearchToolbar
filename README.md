@@ -3,6 +3,7 @@ YahooSearchToolbar
 
 Plugin para o Netbeans do Yahoo Search com uma combo várias possibilidades de busca.
 
+<<<<<<< HEAD
 As vezes quando vc está programando no seu Netbeans, ja teve aquela dúvida de algum nome de função, ou vontade de 
 perguntar algo no Y! Respostas ou no Zend, procurar algum projeto específico no GitHub, pesquisar algo no 
 Stack Overflow ou algo semelhante?
@@ -48,4 +49,8 @@ Passos para desistalação:
 
 
 
+=======
+publicado:
+http://plugins.netbeans.org/plugin/59448/yahoo-search-toolbar
+>>>>>>> 53cbee1562d0ad3716f9b901896236746849f30c
 

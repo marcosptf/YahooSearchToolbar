@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="br.search.yahoo">
-    <module_version install_time="1373987692075" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1454509429099" last="true" origin="installer" specification_version="5.3">
         <file crc="1448775362" name="config/Modules/br-search-yahoo.xml"/>
-        <file crc="2908161421" name="modules/br-search-yahoo.jar"/>
+        <file crc="3482070075" name="modules/br-search-yahoo.jar"/>
     </module_version>
 </module>
