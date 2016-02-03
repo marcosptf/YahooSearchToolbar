@@ -1093,3 +1093,64 @@
   <key>LOG_WINDOW_DEACTIVATED</key>
   <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
 </record>
+<record>
+  <date>2016-02-03T12:24:54</date>
+  <millis>1454509494501</millis>
+  <sequence>88</sequence>
+  <level>300</level>
+  <thread>17</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2016-02-03T12:24:54</date>
+  <millis>1454509494590</millis>
+  <sequence>89</sequence>
+  <level>300</level>
+  <thread>17</thread>
+  <message>SCREEN SIZE</message>
+  <param>1366</param>
+  <param>768</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2016-02-03T12:24:54</date>
+  <millis>1454509494595</millis>
+  <sequence>90</sequence>
+  <level>700</level>
+  <thread>17</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2016-02-03T12:25:05</date>
+  <millis>1454509505757</millis>
+  <sequence>106</sequence>
+  <logger>org.netbeans.ui.metrics.laf</logger>
+  <level>800</level>
+  <thread>17</thread>
+  <message>USG_LOOK_AND_FEEL</message>
+  <param>Metal</param>
+  <param>Metal</param>
+</record>
+<record>
+  <date>2016-02-03T12:25:26</date>
+  <millis>1454509526210</millis>
+  <sequence>110</sequence>
+  <level>800</level>
+  <thread>16</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>2104393728</param>
+</record>
+<record>
+  <date>2016-02-03T12:25:26</date>
+  <millis>1454509526923</millis>
+  <sequence>111</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>53</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>

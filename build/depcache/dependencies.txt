@@ -17,6 +17,7 @@ javax.swing.GroupLayout
 java.lang.Integer
 javax.swing.JTextField
 java.net.URL
+java.lang.Short
 br.search.yahoo.YahooPanel$1
 javax.swing.GroupLayout$Group
 br.search.yahoo.YahooPanel
